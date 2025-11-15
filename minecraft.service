@@ -1,0 +1,18 @@
+[Unit]
+Description=Minecraft Server
+After=network.target
+
+[Service]
+Type=simple
+User=brian
+WorkingDirectory=/home/brian/minecraft-server
+Environment="PATH=/home/brian/.sdkman/candidates/java/current/bin:/usr/local/bin:/usr/bin:/bin"
+ExecStart=/bin/bash /home/brian/minecraft-server/run.sh
+Restart=on-failure
+RestartSec=10
+StandardInput=null
+StandardOutput=append:/home/brian/minecraft-server/logs/service.log
+StandardError=append:/home/brian/minecraft-server/logs/service.log
+
+[Install]
+WantedBy=multi-user.target

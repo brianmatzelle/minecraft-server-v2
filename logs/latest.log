@@ -1,16 +1,17 @@
-[20:37:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:37:41] [ServerMain/INFO]: No existing world data, creating new world
-[20:37:41] [ServerMain/INFO]: Loaded 1461 recipes
-[20:37:41] [ServerMain/INFO]: Loaded 1574 advancements
-[20:37:41] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[20:37:41] [Server thread/INFO]: Loading properties
-[20:37:41] [Server thread/INFO]: Default game type: SURVIVAL
-[20:37:41] [Server thread/INFO]: Generating keypair
-[20:37:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:37:41] [Server thread/INFO]: Using epoll channel type
-[20:37:41] [Server thread/INFO]: Preparing level "world"
-[20:37:42] [Server thread/INFO]: Selecting global world spawn...
-[20:37:44] [Server thread/INFO]: Loading 0 persistent chunks...
-[20:37:44] [Server thread/INFO]: Preparing spawn area: 100%
-[20:37:44] [Server thread/INFO]: Time elapsed: 2675 ms
-[20:37:44] [Server thread/INFO]: Done (3.051s)! For help, type "help"
+[20:59:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[20:59:26] [ServerMain/INFO]: Loaded 1461 recipes
+[20:59:26] [ServerMain/INFO]: Loaded 1574 advancements
+[20:59:26] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[20:59:26] [Server thread/INFO]: Loading properties
+[20:59:26] [Server thread/INFO]: Default game type: SURVIVAL
+[20:59:26] [Server thread/INFO]: Generating keypair
+[20:59:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:59:26] [Server thread/INFO]: Using epoll channel type
+[20:59:26] [Server thread/INFO]: Preparing level "world"
+[20:59:26] [Server thread/INFO]: Loading 0 persistent chunks...
+[20:59:26] [Server thread/INFO]: Preparing spawn area: 100%
+[20:59:26] [Server thread/INFO]: Time elapsed: 11 ms
+[20:59:26] [Server thread/INFO]: Done (0.216s)! For help, type "help"
+[20:59:30] [User Authenticator #1/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[20:59:31] [Server thread/INFO]: DubstepCow_[/96.239.102.77:43582] logged in with entity id 94 at (17.550931548498383, 76.0, -42.41831303287078)
+[20:59:31] [Server thread/INFO]: DubstepCow_ joined the game
