@@ -1,73 +1,262 @@
-[12:46:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[12:46:37] [ServerMain/INFO]: Loaded 1461 recipes
-[12:46:37] [ServerMain/INFO]: Loaded 1574 advancements
-[12:46:37] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[12:46:37] [Server thread/INFO]: Loading properties
-[12:46:37] [Server thread/INFO]: Default game type: SURVIVAL
-[12:46:37] [Server thread/INFO]: Generating keypair
-[12:46:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:46:37] [Server thread/INFO]: Using epoll channel type
-[12:46:37] [Server thread/INFO]: Preparing level "world"
-[12:46:38] [Server thread/INFO]: Loading 0 persistent chunks...
-[12:46:38] [Server thread/INFO]: Preparing spawn area: 100%
-[12:46:38] [Server thread/INFO]: Time elapsed: 12 ms
-[12:46:38] [Server thread/INFO]: Done (0.211s)! For help, type "help"
-[12:46:57] [User Authenticator #1/INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
-[12:46:58] [Server thread/INFO]: TonyYuhh[/100.37.219.212:61939] logged in with entity id 64 at (-270.6028027866671, 63.0, 903.4699820011483)
-[12:46:58] [Server thread/INFO]: TonyYuhh joined the game
-[12:47:22] [User Authenticator #2/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
-[12:47:22] [Server thread/INFO]: Dullpnk127[/163.5.171.16:31328] logged in with entity id 616 at (43.61828002592522, 92.0, 746.6999999880791)
-[12:47:22] [Server thread/INFO]: Dullpnk127 joined the game
-[12:47:53] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
-[12:47:53] [Server thread/INFO]: Dullpnk127 left the game
-[12:49:58] [User Authenticator #3/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
-[12:49:58] [Server thread/INFO]: Dullpnk127[/163.5.171.16:8473] logged in with entity id 1999 at (42.98674007241264, 92.0, 745.6289525934772)
-[12:49:58] [Server thread/INFO]: Dullpnk127 joined the game
-[12:50:26] [Server thread/INFO]: TonyYuhh has made the advancement [Cover Me with Diamonds]
-[12:54:39] [Server thread/INFO]: TonyYuhh has made the advancement [A Seedy Place]
-[12:55:57] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
-[12:55:57] [Server thread/INFO]: Dullpnk127 left the game
-[12:58:04] [User Authenticator #4/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
-[12:58:04] [Server thread/INFO]: Dullpnk127[/163.5.171.16:1286] logged in with entity id 4578 at (10.203169832646672, 38.0, 783.781316973529)
-[12:58:04] [Server thread/INFO]: Dullpnk127 joined the game
-[12:58:22] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
-[12:58:22] [Server thread/INFO]: Dullpnk127 left the game
-[12:59:32] [User Authenticator #5/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
-[12:59:32] [Server thread/INFO]: Dullpnk127[/163.5.171.16:50662] logged in with entity id 5158 at (-0.369484563675521, 38.0, 788.3000000119209)
-[12:59:32] [Server thread/INFO]: Dullpnk127 joined the game
-[13:11:12] [Server thread/INFO]: TonyYuhh has made the advancement [The Parrots and the Bats]
-[13:11:35] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
-[13:11:35] [Server thread/INFO]: Dullpnk127 left the game
-[13:11:37] [User Authenticator #6/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
-[13:11:38] [Server thread/INFO]: Dullpnk127[/163.5.171.16:60275] logged in with entity id 9961 at (151.80877541059226, -52.0, 1118.1022113256367)
-[13:11:38] [Server thread/INFO]: Dullpnk127 joined the game
-[13:12:01] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
-[13:12:01] [Server thread/INFO]: Dullpnk127 left the game
-[13:18:35] [User Authenticator #7/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
-[13:18:35] [Server thread/INFO]: Dullpnk127[/163.5.171.16:7722] logged in with entity id 12318 at (187.0394317322087, -49.0, 1044.730356551565)
-[13:18:35] [Server thread/INFO]: Dullpnk127 joined the game
-[13:19:13] [Server thread/INFO]: MCScans (/45.148.10.134:38146) lost connection: Disconnected
-[13:21:30] [Server thread/INFO]: Dullpnk127 was blown up by Creeper
-[13:52:43] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
-[13:52:43] [Server thread/INFO]: Dullpnk127 left the game
-[13:58:17] [User Authenticator #8/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
-[13:58:17] [Server thread/INFO]: Dullpnk127[/163.5.171.16:47633] logged in with entity id 24566 at (68.98954982367579, 64.0, 534.0538104679086)
-[13:58:17] [Server thread/INFO]: Dullpnk127 joined the game
-[14:00:13] [Server thread/INFO]: TonyYuhh has made the advancement [We Need to Go Deeper]
-[14:02:43] [Server thread/INFO]: TonyYuhh has made the advancement [Stay Hydrated!]
-[14:04:07] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
-[14:04:07] [Server thread/INFO]: Dullpnk127 left the game
-[14:04:20] [User Authenticator #9/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
-[14:04:21] [Server thread/INFO]: Dullpnk127[/163.5.171.16:17324] logged in with entity id 27614 at (104.5772160235507, 69.0, 508.68795021681944)
-[14:04:21] [Server thread/INFO]: Dullpnk127 joined the game
-[14:13:22] [User Authenticator #10/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
-[14:13:22] [Server thread/INFO]: DubstepCow_[/96.239.102.77:50628] logged in with entity id 29879 at (16.799314205501943, 75.0, -23.667044747363416)
-[14:13:22] [Server thread/INFO]: DubstepCow_ joined the game
-[14:15:26] [Server thread/INFO]: DubstepCow_ has made the advancement [Ice Bucket Challenge]
-[14:18:09] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
-[14:18:09] [Server thread/INFO]: DubstepCow_ left the game
-[14:18:10] [User Authenticator #11/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
-[14:18:10] [Server thread/INFO]: DubstepCow_[/96.239.102.77:37988] logged in with entity id 32116 at (20.818078501283054, 77.0, -39.69967204608401)
-[14:18:10] [Server thread/INFO]: DubstepCow_ joined the game
-[14:18:14] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
-[14:18:14] [Server thread/INFO]: DubstepCow_ left the game
+[15:44:11] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[15:44:11] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[15:44:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:44:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
+[15:44:12] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (3):
+ - Machines (0.6.1), Nova (0.20.5), Simple_Upgrades (1.7.0)
+[15:44:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - AuraSkills (2.3.8), CrazyEnchantments (2.6.3), DeathChest (2.2.9), DecentHolograms (2.9.8), ImageFrame (1.8.7.0), LevelledMobs (4.4.0 b137), LiveKit (1.4.9), TPort (1.21.6), ToolStats (1.9.10)
+[15:44:13] [ServerMain/ERROR]: [BootstrapProviderStorage] Failed to run bootstrapper for plugins/Nova-0.20.5+MC-1.21.8.jar. This plugin will not be loaded.
+java.lang.Exception: Nova is not compatible with this version of Minecraft.
+Nova v0.20.5 only runs on [1.21.7; 1.21.8].
+	at Nova-0.20.5+MC-1.21.8.jar/xyz.xenondevs.nova.NovaBootstrapper.bootstrap(NovaBootstrapper.kt:63) ~[Nova-0.20.5+MC-1.21.8.jar:?]
+	at io.papermc.paper.plugin.storage.BootstrapProviderStorage$1.load(BootstrapProviderStorage.java:36) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.BootstrapProviderStorage$1.load(BootstrapProviderStorage.java:24) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:117) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enterBootstrappers(LaunchEntryPointHandler.java:29) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.Bootstrap.bootStrap(Bootstrap.java:46) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.Main.main(Main.java:111) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:44:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:44:18] [ServerMain/INFO]: Loaded 1461 recipes
+[15:44:18] [ServerMain/INFO]: Loaded 1574 advancements
+[15:44:18] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:44:18] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 324.8ms
+[15:44:18] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[15:44:18] [Server thread/INFO]: Loading properties
+[15:44:19] [Server thread/INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[15:44:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:44:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:44:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:44:19] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[15:44:19] [Server thread/INFO]: Default game type: SURVIVAL
+[15:44:19] [Server thread/INFO]: Generating keypair
+[15:44:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:44:19] [Server thread/INFO]: Using epoll channel type
+[15:44:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:44:19] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:44:19] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/Simple_Upgrades-1.7.0+Nova-0.20.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Nova]. Please download and install these plugins to run 'Simple_Upgrades'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:44:19] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/Machines-0.6.1+Nova-0.20.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Simple_Upgrades, Nova]. Please download and install these plugins to run 'Machines'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[15:44:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[15:44:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[15:44:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[15:44:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[15:44:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[15:44:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[15:44:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[15:44:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[15:44:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[15:44:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[15:44:20] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.9.8
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.4.0 b137
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Loading commands
+[15:44:20] [Server thread/INFO]: [ToolStats] Loading server plugin ToolStats v1.9.10
+[15:44:20] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.8.7.0
+[15:44:20] [Server thread/INFO]: [TPort] Loading server plugin TPort v1.21.6
+[15:44:20] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.6.3
+[15:44:20] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.9
+[15:44:20] [Server thread/INFO]: [LiveKit] Loading server plugin LiveKit v1.4.9
+[15:44:20] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.8
+[15:44:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:44:20] [Server thread/INFO]: Preparing level "world"
+[15:44:20] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:44:20] [Server thread/INFO]: Prepared spawn area in 0 ms
+[15:44:20] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:44:20] [Server thread/INFO]: Prepared spawn area in 0 ms
+[15:44:20] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:44:20] [Server thread/INFO]: Prepared spawn area in 0 ms
+[15:44:20] [Server thread/INFO]: Done preparing level "world" (0.284s)
+[15:44:20] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.8
+[15:44:20] [Server thread/INFO]: [DecentHolograms] Initialized NMS adapter for paper_v1_21_R6 (1.21.10).
+[15:44:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:44:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:44:20] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[15:44:20] [Server thread/INFO]: [DecentHolograms] NBT-API loaded successfully.
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.4.0 b137
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.10 for nametag support
+[15:44:20] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[15:44:20] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[15:44:20] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[15:44:20] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[15:44:20] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Current rules hash: 8219519fd8b4a104e2156106fe0f4ce21a1a8ed89b47badc8438c27e389aaaad
+[15:44:20] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[15:44:20] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 224ms)
+[15:44:20] [Server thread/INFO]: [ToolStats] Enabling ToolStats v1.9.10
+[15:44:20] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.8.7.0
+[15:44:22] [Folia Async Scheduler Thread #0/INFO]: [ToolStats] Yay! You are running the lates version!
+[15:44:23] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[15:44:23] [Server thread/INFO]: [TPort] Enabling TPort v1.21.6
+[15:44:23] [Server thread/INFO]: [TPort] TPort has a Discord server, for any questions/more go to: https://discord.gg/tq5RTmSbHU
+[15:44:23] [Server thread/INFO]: [TPort] Successfully loaded adapter '1.21.10'
+[15:44:23] [Server thread/INFO]: [TPort] Loading language en_us.json
+[15:44:23] [Server thread/ERROR]: [TPort] Tried to enable Dynmap support, Dynmap was not found
+[15:44:23] [Server thread/INFO]: [TPort] Enabling metrics. Thank you for enabling metrics, powered by bStats. To view stats use '/tport metrics viewStats'
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.6.3
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Loading the HeadMap.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded HeadMap.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml
+[15:44:23] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml
+[15:44:24] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: === CrazyEnchantment Hook Status ===
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: WORLDGUARD NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: VAULT NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: GRIEF_PREVENTION NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: TOWNYADVANCED NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: PLOT_SQUARED NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: LANDS NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: MCMMO NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: FACTIONS_UUID NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: WORLDEDIT NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments]: SUPERIORSKYBLOCK NOT FOUND
+[15:44:24] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[15:44:24] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.9
+[15:44:24] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world"
+[15:44:24] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[15:44:24] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[15:44:24] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[15:44:24] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[15:44:24] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[15:44:24] [Server thread/INFO]: [LiveKit] Enabling LiveKit v1.4.9
+[15:44:24] [Server thread/INFO]: [LiveKit] Using default permissions from config.yml for connected LiveKit clients
+[15:44:24] [Server thread/INFO]: [LiveKit] Initializing storage adapter...[SQLITE]
+[15:44:24] [Server thread/INFO]: [LiveKit] 42 regions detected for world world took 2ms
+[15:44:24] [Server thread/INFO]: [LiveKit] 0 regions detected for world world_the_end took 0ms
+[15:44:24] [Server thread/INFO]: [LiveKit] 11 regions detected for world world_nether took 1ms
+[15:44:24] [Server thread/INFO]: [LiveKit] Console access password: tOO1qEHIZi
+[15:44:24] [LiveKit server/INFO]: [LiveKit] Server listening on 4123 for incoming connections
+[15:44:25] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.3.8
+[15:44:25] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[15:44:25] [Server thread/INFO]: [AuraSkills] Successfully registered hook DecentHolograms
+[15:44:25] [Server thread/INFO]: [AuraSkills] Loaded 160 config options in 19 ms
+[15:44:25] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:44:25] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:44:25] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[15:44:26] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[15:44:26] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:44:26] [Server thread/INFO]: [spark] Starting background profiler...
+[15:44:26] [Server thread/INFO]: Running delayed init tasks
+[15:44:26] [Craft Scheduler Thread - 7 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[15:44:26] [Craft Scheduler Thread - 5 - TPort/INFO]: [TPort] You are running the latest version of TPort
+[15:44:26] [User Authenticator #1/INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[15:44:26] [User Authenticator #0/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[15:44:27] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 317 total sources
+[15:44:27] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[15:44:27] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[15:44:27] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[15:44:27] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:44:27] [Server thread/INFO]: [AuraSkills] Loaded 7 menus
+[15:44:27] [Server thread/INFO]: Done (16.511s)! For help, type "help"
+[15:44:27] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [TPort, DeathChest]
+[15:44:28] [User Authenticator #0/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[15:44:28] [Server thread/INFO]: TonyYuhh joined the game
+[15:44:28] [Server thread/INFO]: TonyYuhh[/100.37.219.212:54934] logged in with entity id 2 at ([world]-123.38330264060237, -34.0, 544.8767144974797)
+[15:44:28] [Server thread/INFO]: DubstepCow_ joined the game
+[15:44:28] [Server thread/INFO]: DubstepCow_[/96.239.102.77:33574] logged in with entity id 1 at ([world]38.243530245900686, 81.0, -46.48953349503426)
+[15:44:28] [Server thread/INFO]: Dullpnk127 joined the game
+[15:44:28] [Server thread/INFO]: Dullpnk127[/163.5.171.16:17636] logged in with entity id 22 at ([world]63.25752238194466, 64.0, 545.4335954879007)
+[15:44:30] [pool-19-thread-1/INFO]: [LiveKit] Connect via 108.46.204.45:4123 [PROXIED CONNECTION]
+[15:44:30] [pool-19-thread-1/INFO]: [LiveKit] If you want to connect with a hostname instead of your IP, setup the proxy->hostname in the config.yml!
+[15:44:30] [pool-19-thread-1/WARN]: [LiveKit] NOTE: You need to setup port forwarding for LiveKit port 4123 to enable direct connections! Direct connections offer better performance and stability! Proxy connections are only a fallback if port forwarding is not possible! Only 3 proxy connections are allowed!
+[15:44:36] [Server thread/INFO]: Dullpnk127 issued server command: /plugins
+[15:44:39] [Server thread/INFO]: DubstepCow_ issued server command: /plugins
+[15:52:21] [Server thread/INFO]: DubstepCow_ was slain by Lvl 9 | Enderman
+[15:53:37] [Server thread/INFO]: TonyYuhh has made the advancement [Best Friends Forever]
+[15:56:32] [Server thread/INFO]: DubstepCow_ was shot by Lvl 5 | Skeleton
+[15:56:38] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[15:56:38] [Server thread/INFO]: DubstepCow_ left the game
+[15:59:09] [User Authenticator #2/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[15:59:09] [Server thread/INFO]: DubstepCow_ joined the game
+[15:59:09] [Server thread/INFO]: DubstepCow_[/96.239.102.77:36536] logged in with entity id 6944 at ([world]17.5, 76.0, -39.5)
+[16:04:56] [Server thread/INFO]: DubstepCow_ lost connection: Timed out
+[16:04:56] [Server thread/INFO]: DubstepCow_ left the game
+[16:06:45] [User Authenticator #3/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[16:06:46] [Server thread/INFO]: DubstepCow_ joined the game
+[16:06:46] [Server thread/INFO]: DubstepCow_[/23.234.101.189:40942] logged in with entity id 8950 at ([world]116.28945368088131, 120.0, 448.72825231581965)
+[16:06:55] [Server thread/INFO]: TonyYuhh issued server command: /plugins
+[16:06:59] [Server thread/INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:07:21] [Server thread/INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:07:44] [Server thread/INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:08:24] [Server thread/INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:08:48] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[16:08:48] [Server thread/INFO]: DubstepCow_ left the game
+[16:09:11] [Server thread/INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:09:21] [Server thread/INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:09:25] [Server thread/INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:09:33] [Server thread/INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:10:34] [User Authenticator #4/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[16:10:34] [Server thread/INFO]: DubstepCow_ joined the game
+[16:10:34] [Server thread/INFO]: DubstepCow_[/23.234.101.189:53382] logged in with entity id 9426 at ([world]114.69999998807907, 117.0, 465.92261378805307)
+[16:12:43] [Server thread/INFO]: DubstepCow_ has made the advancement [Sweet Dreams]
+[16:12:55] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[16:12:55] [Server thread/INFO]: DubstepCow_ left the game
+[16:15:11] [Server thread/INFO]: TonyYuhh issued server command: /ce

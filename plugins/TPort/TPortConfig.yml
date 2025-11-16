@@ -1,0 +1,32 @@
+biomeTP:
+  searches: 100
+tags:
+  list:
+  - Home
+  - Spawner
+  - Farm
+  - Base
+  - Mine
+  - Temp
+cooldown:
+  TPortTP: '3000'
+  PlayerTP: '3000'
+  FeatureTP: '3000'
+  BiomeTP: '3000'
+  Search: '10000'
+  Back: TPortTP
+  LookTP: '3000'
+tport:
+  onlineState: true
+redirects:
+  ConsoleFeedback: true
+  TP_PLTP: true
+  Locate_FeatureTP: true
+  LocateBiome_BiomeTP: true
+  Home_TPortHome: false
+  Back_TPortBack: false
+  TPA_PLTP_TP: false
+  TPAccept_Requests_accept: false
+  TPDeny_Requests_reject: false
+  TPRevoke_Requests_revoke: false
+  TPRandom_BiomeTP_random: false

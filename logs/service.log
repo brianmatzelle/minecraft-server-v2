@@ -685,3 +685,2003 @@ Starting net.minecraft.server.Main
 [14:18:10] [Server thread/INFO]: DubstepCow_ joined the game
 [14:18:14] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
 [14:18:14] [Server thread/INFO]: DubstepCow_ left the game
+[14:40:11] [Server thread/INFO]: TonyYuhh lost connection: Disconnected
+[14:40:11] [Server thread/INFO]: TonyYuhh left the game
+[14:44:28] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[14:44:28] [Server thread/INFO]: Dullpnk127 left the game
+Starting org.bukkit.craftbukkit.Main
+2025-11-16T19:46:42.568475438Z ServerMain WARN Advanced terminal features are not available in this environment
+[14:46:42 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[14:46:42 INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[14:46:42 INFO]: [PluginInitializerManager] Initializing plugins...
+[14:46:43 INFO]: [PluginInitializerManager] Initialized 0 plugins
+[14:46:46 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:46:47 INFO]: Loaded 1461 recipes
+[14:46:47 INFO]: Loaded 1574 advancements
+[14:46:47 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[14:46:48 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 274.3ms
+[14:46:49 INFO]: Starting minecraft server version 1.21.10
+[14:46:49 INFO]: Loading properties
+[14:46:49 INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[14:46:49 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:46:49 INFO]: Server Ping Player Sample Count: 12
+[14:46:49 INFO]: Using 4 threads for Netty based IO
+[14:46:49 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[14:46:50 INFO]: Default game type: SURVIVAL
+[14:46:50 INFO]: Generating keypair
+[14:46:50 INFO]: Starting Minecraft server on *:25565
+[14:46:50 INFO]: Using epoll channel type
+[14:46:50 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:46:50 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[14:46:50 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:46:50 INFO]: Preparing level "world"
+[14:46:50 INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[14:46:50 INFO]: Preparing spawn area: 100%
+[14:46:50 INFO]: Prepared spawn area in 2 ms
+[14:46:50 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[14:46:50 INFO]: Preparing spawn area: 100%
+[14:46:50 INFO]: Prepared spawn area in 1 ms
+[14:46:50 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[14:46:50 INFO]: Prepared spawn area in 0 ms
+[14:46:50 INFO]: Done preparing level "world" (0.330s)
+[14:46:50 INFO]: [spark] Starting background profiler...
+[14:46:50 INFO]: Running delayed init tasks
+[14:46:50 INFO]: Done (8.638s)! For help, type "help"
+[14:47:04 INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[14:47:05 INFO]: DubstepCow_ joined the game
+[14:47:05 INFO]: DubstepCow_[/96.239.102.77:57422] logged in with entity id 48 at ([world]20.818078501283054, 77.0, -39.69967204608401)
+[14:47:09 INFO]: DubstepCow_ lost connection: Disconnected
+[14:47:09 INFO]: DubstepCow_ left the game
+[14:47:10 INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[14:47:10 INFO]: Dullpnk127 joined the game
+[14:47:10 INFO]: Dullpnk127[/163.5.171.16:40807] logged in with entity id 402 at ([world]54.29735092166012, 64.0, 553.3086465593444)
+[14:53:37 INFO]: Stopping server
+[14:53:37 INFO]: Saving players
+[14:53:37 INFO]: Dullpnk127 lost connection: Server closed
+[14:53:37 INFO]: Dullpnk127 left the game
+[14:53:37 INFO]: Saving worlds
+[14:53:37 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:53:37 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:53:37 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:53:37 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:53:37 INFO]: [ChunkHolderManager] Saved 178 block chunks, 454 entity chunks, 0 poi chunks in world 'world' in 0.21s
+[14:53:37 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[14:53:37 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[14:53:37 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:53:37 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:53:37 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:53:37 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:53:37 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[14:53:37 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[14:53:37 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[14:53:37 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:53:37 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:53:37 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:53:37 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:53:37 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[14:53:37 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[14:53:37 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[14:53:37 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:53:37 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:53:37 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:53:37 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:53:37 INFO]: Waiting for all RegionFile I/O tasks to complete...
+[14:53:37 INFO]: All RegionFile I/O tasks to complete
+[14:53:37 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[14:53:37 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+2025-11-16T19:53:39.903706068Z ServerMain WARN Advanced terminal features are not available in this environment
+[14:53:40 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[14:53:40 INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[14:53:40 INFO]: [PluginInitializerManager] Initializing plugins...
+[14:53:40 INFO]: [PluginRemapper] Remapping plugin 'plugins/AuraSkills-2.3.8.jar'...
+[14:53:41 INFO]: [PluginRemapper] Done remapping plugin 'plugins/AuraSkills-2.3.8.jar' in 1400ms.
+[14:53:41 INFO]: [PluginInitializerManager] Initialized 1 plugin
+[14:53:41 INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - AuraSkills (2.3.8)
+[14:53:45 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:53:46 INFO]: Loaded 1461 recipes
+[14:53:46 INFO]: Loaded 1574 advancements
+[14:53:46 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[14:53:47 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 343.9ms
+[14:53:47 INFO]: Starting minecraft server version 1.21.10
+[14:53:47 INFO]: Loading properties
+[14:53:47 INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[14:53:47 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:53:47 INFO]: Server Ping Player Sample Count: 12
+[14:53:47 INFO]: Using 4 threads for Netty based IO
+[14:53:47 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[14:53:47 INFO]: Default game type: SURVIVAL
+[14:53:47 INFO]: Generating keypair
+[14:53:47 INFO]: Starting Minecraft server on *:25565
+[14:53:47 INFO]: Using epoll channel type
+[14:53:48 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:53:48 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[14:53:48 INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.8
+[14:53:48 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:53:48 INFO]: Preparing level "world"
+[14:53:48 INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[14:53:48 INFO]: Preparing spawn area: 100%
+[14:53:48 INFO]: Prepared spawn area in 1 ms
+[14:53:48 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[14:53:48 INFO]: Prepared spawn area in 0 ms
+[14:53:48 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[14:53:48 INFO]: Prepared spawn area in 0 ms
+[14:53:48 INFO]: Done preparing level "world" (0.375s)
+[14:53:48 INFO]: [AuraSkills] Enabling AuraSkills v2.3.8
+[14:53:49 INFO]: [AuraSkills] Loaded 21 message files
+[14:53:49 INFO]: [AuraSkills] Loaded 160 config options in 18 ms
+[14:53:49 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[14:53:49 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[14:53:49 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[14:53:49 INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[14:53:49 INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[14:53:50 INFO]: [spark] Starting background profiler...
+[14:53:50 INFO]: Running delayed init tasks
+[14:53:50 INFO]: [AuraSkills] Loaded 11 skills with 317 total sources
+[14:53:50 INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[14:53:50 INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[14:53:50 INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[14:53:51 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:53:51 INFO]: [AuraSkills] Loaded 7 menus
+[14:53:51 INFO]: Done (11.524s)! For help, type "help"
+[14:54:03 INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[14:54:04 INFO]: DubstepCow_ joined the game
+[14:54:04 INFO]: DubstepCow_[/96.239.102.77:44136] logged in with entity id 11 at ([world]20.818078501283054, 77.0, -39.69967204608401)
+[14:54:54 INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[14:54:55 INFO]: Dullpnk127 joined the game
+[14:54:55 INFO]: Dullpnk127[/163.5.171.16:50393] logged in with entity id 535 at ([world]39.15771785098062, 68.0, 520.3561076676614)
+[14:59:08 INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[14:59:09 INFO]: TonyYuhh joined the game
+[14:59:09 INFO]: TonyYuhh[/100.37.219.212:57988] logged in with entity id 2052 at ([world]52.63400420875551, 64.79673560066871, 560.1235797222698)
+[14:59:22 INFO]: DubstepCow_ lost connection: Disconnected
+[14:59:22 INFO]: DubstepCow_ left the game
+[15:02:42 INFO]: TonyYuhh issued server command: /help
+[15:02:52 INFO]: TonyYuhh issued server command: /agility
+[15:07:52 INFO]: Stopping server
+[15:07:52 INFO]: [AuraSkills] Disabling AuraSkills v2.3.8
+[15:07:52 INFO]: Saving players
+[15:07:52 INFO]: Dullpnk127 lost connection: Server closed
+[15:07:52 INFO]: Dullpnk127 left the game
+[15:07:52 INFO]: TonyYuhh lost connection: Server closed
+[15:07:52 INFO]: TonyYuhh left the game
+[15:07:53 INFO]: Saving worlds
+[15:07:53 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:07:53 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:07:53 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:07:53 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:07:53 INFO]: [ChunkHolderManager] Saved 87 block chunks, 443 entity chunks, 0 poi chunks in world 'world' in 0.11s
+[15:07:53 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:07:53 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:07:53 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:07:53 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:07:53 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:07:53 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:07:53 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:07:53 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:07:53 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:07:53 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:07:53 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:07:53 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:07:53 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:07:53 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:07:53 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:07:53 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:07:53 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:07:53 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:07:53 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:07:53 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:07:53 INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:07:53 INFO]: All RegionFile I/O tasks to complete
+[15:07:53 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:07:53 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+2025-11-16T20:07:55.417499869Z ServerMain WARN Advanced terminal features are not available in this environment
+[15:07:55 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[15:07:55 INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[15:07:55 INFO]: [PluginInitializerManager] Initializing plugins...
+[15:07:55 INFO]: [PluginRemapper] Remapping plugin 'plugins/ImageFrame-1.8.7.0.jar'...
+[15:07:55 INFO]: [PluginRemapper] Remapping plugin 'plugins/toolstats-1.9.10.jar'...
+[15:07:56 INFO]: [PluginRemapper] Done remapping plugin 'plugins/toolstats-1.9.10.jar' in 388ms.
+[15:07:57 INFO]: [PluginRemapper] Done remapping plugin 'plugins/ImageFrame-1.8.7.0.jar' in 1040ms.
+[15:07:57 INFO]: [PluginInitializerManager] Initialized 4 plugins
+[15:07:57 INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - AuraSkills (2.3.8), CrazyEnchantments (2.6.3), ImageFrame (1.8.7.0), ToolStats (1.9.10)
+[15:08:00 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:08:01 INFO]: Loaded 1461 recipes
+[15:08:01 INFO]: Loaded 1574 advancements
+[15:08:01 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:08:02 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 303.0ms
+[15:08:02 INFO]: Starting minecraft server version 1.21.10
+[15:08:02 INFO]: Loading properties
+[15:08:02 INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[15:08:02 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:08:02 INFO]: Server Ping Player Sample Count: 12
+[15:08:02 INFO]: Using 4 threads for Netty based IO
+[15:08:02 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[15:08:03 INFO]: Default game type: SURVIVAL
+[15:08:03 INFO]: Generating keypair
+[15:08:03 INFO]: Starting Minecraft server on *:25565
+[15:08:03 INFO]: Using epoll channel type
+[15:08:03 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:08:03 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:08:03 INFO]: [ToolStats] Loading server plugin ToolStats v1.9.10
+[15:08:03 INFO]: [ImageFrame] Loading server plugin ImageFrame v1.8.7.0
+[15:08:03 INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.6.3
+[15:08:03 INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.8
+[15:08:03 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:08:03 INFO]: Preparing level "world"
+[15:08:03 INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:08:03 INFO]: Preparing spawn area: 100%
+[15:08:03 INFO]: Prepared spawn area in 1 ms
+[15:08:03 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:08:03 INFO]: Prepared spawn area in 1 ms
+[15:08:03 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:08:03 INFO]: Prepared spawn area in 0 ms
+[15:08:03 INFO]: Done preparing level "world" (0.306s)
+[15:08:03 INFO]: [ToolStats] Enabling ToolStats v1.9.10
+[15:08:03 INFO]: [ToolStats] Copying default config!
+[15:08:03 INFO]: [ImageFrame] Enabling ImageFrame v1.8.7.0
+[15:08:05 INFO]: [ToolStats] Yay! You are running the lates version!
+[15:08:06 INFO]: [ImageFrame] ImageFrame has been Enabled!
+[15:08:06 INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.6.3
+[15:08:06 INFO]: [CrazyEnchantments] Loading the config.yml
+[15:08:06 INFO]: [CrazyEnchantments] Successfully loaded config.yml
+[15:08:06 INFO]: [CrazyEnchantments] Loading the BlockList.yml
+[15:08:06 INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml
+[15:08:06 INFO]: [CrazyEnchantments] Loading the HeadMap.yml
+[15:08:06 INFO]: [CrazyEnchantments] Successfully loaded HeadMap.yml
+[15:08:06 INFO]: [CrazyEnchantments] Loading the Data.yml
+[15:08:06 INFO]: [CrazyEnchantments] Successfully loaded Data.yml
+[15:08:06 INFO]: [CrazyEnchantments] Loading the Enchantments.yml
+[15:08:06 INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml
+[15:08:06 INFO]: [CrazyEnchantments] Loading the GKitz.yml
+[15:08:06 INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml
+[15:08:06 INFO]: [CrazyEnchantments] Loading the Messages.yml
+[15:08:06 INFO]: [CrazyEnchantments] Successfully loaded Messages.yml
+[15:08:06 INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml
+[15:08:06 INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml
+[15:08:06 INFO]: [CrazyEnchantments] Loading the Tinker.yml
+[15:08:06 INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml
+[15:08:06 WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[15:08:06 INFO]: [CrazyEnchantments]: === CrazyEnchantment Hook Status ===
+[15:08:06 INFO]: [CrazyEnchantments]: VAULT NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments]: WORLDEDIT NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments]: LANDS NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments]: GRIEF_PREVENTION NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments]: SUPERIORSKYBLOCK NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments]: FACTIONS_UUID NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments]: MCMMO NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments]: WORLDGUARD NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments]: TOWNYADVANCED NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments]: PLOT_SQUARED NOT FOUND
+[15:08:06 INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[15:08:06 INFO]: [AuraSkills] Enabling AuraSkills v2.3.8
+[15:08:07 INFO]: [AuraSkills] Loaded 21 message files
+[15:08:07 INFO]: [AuraSkills] Loaded 160 config options in 15 ms
+[15:08:07 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:08:07 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:08:07 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[15:08:07 INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[15:08:07 INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:08:08 INFO]: [spark] Starting background profiler...
+[15:08:08 INFO]: Running delayed init tasks
+[15:08:08 INFO]: [AuraSkills] Loaded 11 skills with 317 total sources
+[15:08:08 INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[15:08:08 INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[15:08:08 INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[15:08:08 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:08:08 INFO]: [AuraSkills] Loaded 7 menus
+[15:08:08 INFO]: Done (13.871s)! For help, type "help"
+[15:08:08 INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[15:08:22 INFO]: Stopping server
+[15:08:22 INFO]: [AuraSkills] Disabling AuraSkills v2.3.8
+[15:08:22 INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.6.3
+[15:08:22 INFO]: [ImageFrame] Disabling ImageFrame v1.8.7.0
+[15:08:22 INFO]: [ImageFrame] ImageFrame has been Disabled!
+[15:08:22 INFO]: [ToolStats] Disabling ToolStats v1.9.10
+[15:08:22 INFO]: Saving players
+[15:08:22 INFO]: Saving worlds
+[15:08:22 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:08:22 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:08:22 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:08:22 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:08:22 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[15:08:22 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:08:22 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:08:22 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:08:22 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:08:22 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:08:22 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:08:22 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:08:22 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:08:22 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:08:22 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:08:22 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:08:22 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:08:22 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:08:22 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:08:22 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:08:22 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:08:22 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:08:22 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:08:22 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:08:22 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:08:22 INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:08:22 INFO]: All RegionFile I/O tasks to complete
+[15:08:22 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:08:22 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+2025-11-16T20:08:24.712368979Z ServerMain WARN Advanced terminal features are not available in this environment
+[15:08:24 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[15:08:24 INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[15:08:25 INFO]: [PluginInitializerManager] Initializing plugins...
+[15:08:25 INFO]: [PluginInitializerManager] Initialized 5 plugins
+[15:08:25 INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - AuraSkills (2.3.8), CrazyEnchantments (2.6.3), ImageFrame (1.8.7.0), LevelledMobs (4.4.0 b137), ToolStats (1.9.10)
+[15:08:29 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:08:30 INFO]: Loaded 1461 recipes
+[15:08:30 INFO]: Loaded 1574 advancements
+[15:08:30 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:08:30 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 279.6ms
+[15:08:30 INFO]: Starting minecraft server version 1.21.10
+[15:08:30 INFO]: Loading properties
+[15:08:30 INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[15:08:30 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:08:30 INFO]: Server Ping Player Sample Count: 12
+[15:08:30 INFO]: Using 4 threads for Netty based IO
+[15:08:31 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[15:08:31 INFO]: Default game type: SURVIVAL
+[15:08:31 INFO]: Generating keypair
+[15:08:31 INFO]: Starting Minecraft server on *:25565
+[15:08:31 INFO]: Using epoll channel type
+[15:08:31 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:08:31 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:08:32 INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.4.0 b137
+[15:08:32 INFO]: [LevelledMobs] Loading commands
+[15:08:32 INFO]: [ToolStats] Loading server plugin ToolStats v1.9.10
+[15:08:32 INFO]: [ImageFrame] Loading server plugin ImageFrame v1.8.7.0
+[15:08:32 INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.6.3
+[15:08:32 INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.8
+[15:08:32 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:08:32 INFO]: Preparing level "world"
+[15:08:32 INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:08:32 INFO]: Preparing spawn area: 100%
+[15:08:32 INFO]: Prepared spawn area in 1 ms
+[15:08:32 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:08:32 INFO]: Prepared spawn area in 0 ms
+[15:08:32 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:08:32 INFO]: Prepared spawn area in 0 ms
+[15:08:32 INFO]: Done preparing level "world" (0.343s)
+[15:08:32 INFO]: [LevelledMobs] Enabling LevelledMobs v4.4.0 b137
+[15:08:32 INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[15:08:32 INFO]: [LevelledMobs] Enabling commands
+[15:08:32 INFO]: [LevelledMobs] Using NMS version 1.21.10 for nametag support
+[15:08:32 INFO]: [LevelledMobs] File Loader: Loading files...
+[15:08:32 INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[15:08:32 INFO]: [LevelledMobs] File Loader: File 'settings.yml' doesn't exist, creating it now...
+[15:08:32 INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[15:08:32 INFO]: [LevelledMobs] File Loader: File 'messages.yml' doesn't exist, creating it now...
+[15:08:32 INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[15:08:32 INFO]: [LevelledMobs] File Loader: File 'externalplugins.yml' doesn't exist, creating it now...
+[15:08:32 INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[15:08:32 INFO]: [LevelledMobs] File Loader: File 'rules.yml' doesn't exist, creating it now...
+[15:08:32 INFO]: [LevelledMobs] Current rules hash: 8219519fd8b4a104e2156106fe0f4ce21a1a8ed89b47badc8438c27e389aaaad
+[15:08:32 INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[15:08:32 INFO]: [LevelledMobs] File Loader: File 'customdrops.yml' doesn't exist, creating it now...
+[15:08:32 INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[15:08:32 INFO]: [LevelledMobs] Running misc procedures
+[15:08:32 INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[15:08:32 INFO]: [LevelledMobs] Start-up complete (took 299ms)
+[15:08:32 INFO]: [ToolStats] Enabling ToolStats v1.9.10
+[15:08:33 INFO]: [ImageFrame] Enabling ImageFrame v1.8.7.0
+[15:08:34 INFO]: [ToolStats] Yay! You are running the lates version!
+[15:08:35 INFO]: [ImageFrame] ImageFrame has been Enabled!
+[15:08:35 INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.6.3
+[15:08:35 INFO]: [CrazyEnchantments] Loading the config.yml
+[15:08:35 INFO]: [CrazyEnchantments] Successfully loaded config.yml
+[15:08:35 INFO]: [CrazyEnchantments] Loading the BlockList.yml
+[15:08:35 INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml
+[15:08:35 INFO]: [CrazyEnchantments] Loading the HeadMap.yml
+[15:08:35 INFO]: [CrazyEnchantments] Successfully loaded HeadMap.yml
+[15:08:35 INFO]: [CrazyEnchantments] Loading the Data.yml
+[15:08:35 INFO]: [CrazyEnchantments] Successfully loaded Data.yml
+[15:08:35 INFO]: [CrazyEnchantments] Loading the Enchantments.yml
+[15:08:35 INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml
+[15:08:35 INFO]: [CrazyEnchantments] Loading the GKitz.yml
+[15:08:35 INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml
+[15:08:35 INFO]: [CrazyEnchantments] Loading the Messages.yml
+[15:08:35 INFO]: [CrazyEnchantments] Successfully loaded Messages.yml
+[15:08:35 INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml
+[15:08:35 INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml
+[15:08:35 INFO]: [CrazyEnchantments] Loading the Tinker.yml
+[15:08:35 INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml
+[15:08:35 WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[15:08:35 INFO]: [CrazyEnchantments]: === CrazyEnchantment Hook Status ===
+[15:08:35 INFO]: [CrazyEnchantments]: PLOT_SQUARED NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments]: FACTIONS_UUID NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments]: WORLDGUARD NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments]: GRIEF_PREVENTION NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments]: TOWNYADVANCED NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments]: LANDS NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments]: SUPERIORSKYBLOCK NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments]: WORLDEDIT NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments]: VAULT NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments]: MCMMO NOT FOUND
+[15:08:35 INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[15:08:35 INFO]: [AuraSkills] Enabling AuraSkills v2.3.8
+[15:08:36 INFO]: [AuraSkills] Loaded 21 message files
+[15:08:36 INFO]: [AuraSkills] Loaded 160 config options in 14 ms
+[15:08:36 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:08:36 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:08:36 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[15:08:37 INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[15:08:37 INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:08:37 INFO]: [spark] Starting background profiler...
+[15:08:37 INFO]: Running delayed init tasks
+[15:08:37 INFO]: [AuraSkills] Loaded 11 skills with 317 total sources
+[15:08:37 INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[15:08:37 INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[15:08:37 INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[15:08:38 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:08:38 INFO]: [AuraSkills] Loaded 7 menus
+[15:08:38 INFO]: Done (13.777s)! For help, type "help"
+[15:08:38 INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[15:08:44 INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[15:08:46 INFO]: TonyYuhh joined the game
+[15:08:46 INFO]: TonyYuhh[/100.37.219.212:49784] logged in with entity id 141 at ([world]32.91734805996968, 64.0, 527.6649447569789)
+[15:08:46 INFO]: Map color cache not found, building it in the background
+[15:08:52 INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[15:08:53 INFO]: Dullpnk127 joined the game
+[15:08:53 INFO]: Dullpnk127[/163.5.171.16:58712] logged in with entity id 366 at ([world]32.67021344055377, 65.0, 523.3144676488837)
+[15:08:59 INFO]: Map color cache build successfully
+[15:09:00 INFO]: TonyYuhh issued server command: /help
+[15:09:03 INFO]: TonyYuhh issued server command: /plugins
+[15:09:39 INFO]: TonyYuhh issued server command: /help
+[15:09:45 INFO]: TonyYuhh issued server command: /levelledmobs
+[15:09:53 INFO]: TonyYuhh issued server command: /help 6
+[15:09:56 INFO]: Stopping server
+[15:09:56 INFO]: [AuraSkills] Disabling AuraSkills v2.3.8
+[15:09:56 INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.6.3
+[15:09:56 INFO]: [ImageFrame] Disabling ImageFrame v1.8.7.0
+[15:09:56 INFO]: [ImageFrame] ImageFrame has been Disabled!
+[15:09:56 INFO]: [ToolStats] Disabling ToolStats v1.9.10
+[15:09:56 INFO]: [LevelledMobs] Disabling LevelledMobs v4.4.0 b137
+[15:09:56 INFO]: [LevelledMobs] Unregistering commands
+[15:09:57 INFO]: Loaded 1461 recipes
+[15:09:57 INFO]: Loaded 1574 advancements
+[15:09:57 INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[15:09:57 INFO]: [LevelledMobs] Shut-down complete (took 316ms)
+[15:09:57 INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[15:09:57 INFO]: Saving players
+[15:09:57 INFO]: TonyYuhh lost connection: Server closed
+[15:09:57 INFO]: TonyYuhh left the game
+[15:09:57 INFO]: Dullpnk127 lost connection: Server closed
+[15:09:57 INFO]: Dullpnk127 left the game
+[15:09:57 INFO]: Saving worlds
+[15:09:57 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:09:57 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:09:57 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:09:57 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:09:58 INFO]: [ChunkHolderManager] Saved 1518 block chunks, 1518 entity chunks, 0 poi chunks in world 'world' in 1.46s
+[15:09:58 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:09:58 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:09:58 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:09:58 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:09:58 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:09:58 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:09:58 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:09:58 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:09:58 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:09:58 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:09:58 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:09:58 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:09:58 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:09:58 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:09:58 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:09:58 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:09:58 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:09:58 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:09:58 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:09:58 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:09:58 INFO]: Waiting for all RegionFile I/O tasks to complete...
+2025-11-16T20:09:59.026859345Z Log4j2-AsyncAppenderEventDispatcher-1-Async WARN Advanced terminal features are not available in this environment
+[15:09:58 INFO]: All RegionFile I/O tasks to complete
+[15:09:58 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:09:59 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+2025-11-16T20:10:01.337094073Z ServerMain WARN Advanced terminal features are not available in this environment
+[15:10:01 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[15:10:01 INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[15:10:01 INFO]: [PluginInitializerManager] Initializing plugins...
+[15:10:01 INFO]: [PluginRemapper] Remapping plugin 'plugins/TPort.jar'...
+[15:10:01 INFO]: [PluginRemapper] Remapping plugin 'plugins/DecentHolograms-2.9.8.jar'...
+[15:10:01 INFO]: [PluginRemapper] Remapping plugin 'plugins/Graves-4.9.jar'...
+[15:10:02 INFO]: [PluginRemapper] Done remapping plugin 'plugins/Graves-4.9.jar' in 414ms.
+[15:10:02 INFO]: [PluginRemapper] Done remapping plugin 'plugins/TPort.jar' in 896ms.
+[15:10:02 INFO]: [PluginRemapper] Done remapping plugin 'plugins/DecentHolograms-2.9.8.jar' in 906ms.
+[15:10:02 INFO]: [PluginInitializerManager] Initialized 8 plugins
+[15:10:02 INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - AuraSkills (2.3.8), CrazyEnchantments (2.6.3), DecentHolograms (2.9.8), Graves (4.9), ImageFrame (1.8.7.0), LevelledMobs (4.4.0 b137), TPort (1.21.6), ToolStats (1.9.10)
+[15:10:06 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:10:07 INFO]: Loaded 1461 recipes
+[15:10:07 INFO]: Loaded 1574 advancements
+[15:10:07 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:10:07 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 286.0ms
+[15:10:08 INFO]: Starting minecraft server version 1.21.10
+[15:10:08 INFO]: Loading properties
+[15:10:08 INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[15:10:08 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:10:08 INFO]: Server Ping Player Sample Count: 12
+[15:10:08 INFO]: Using 4 threads for Netty based IO
+[15:10:08 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[15:10:08 INFO]: Default game type: SURVIVAL
+[15:10:08 INFO]: Generating keypair
+[15:10:08 INFO]: Starting Minecraft server on *:25565
+[15:10:08 INFO]: Using epoll channel type
+[15:10:08 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:10:08 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:10:09 INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.9.8
+[15:10:09 INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.4.0 b137
+[15:10:09 INFO]: [LevelledMobs] Loading commands
+[15:10:09 INFO]: [ToolStats] Loading server plugin ToolStats v1.9.10
+[15:10:09 INFO]: [ImageFrame] Loading server plugin ImageFrame v1.8.7.0
+[15:10:09 INFO]: [Graves] Loading server plugin Graves v4.9
+[15:10:09 INFO]: [TPort] Loading server plugin TPort v1.21.6
+[15:10:09 INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.6.3
+[15:10:09 INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.8
+[15:10:09 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:10:09 INFO]: Preparing level "world"
+[15:10:09 INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:10:09 INFO]: Prepared spawn area in 1 ms
+[15:10:09 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:10:09 INFO]: Prepared spawn area in 0 ms
+[15:10:09 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:10:09 INFO]: Preparing spawn area: 100%
+[15:10:09 INFO]: Prepared spawn area in 1 ms
+[15:10:09 INFO]: Done preparing level "world" (0.293s)
+[15:10:09 INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.8
+[15:10:09 INFO]: [DecentHolograms] Initialized NMS adapter for paper_v1_21_R6 (1.21.10).
+[15:10:10 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:10:10 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:10:10 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[15:10:10 INFO]: [DecentHolograms] NBT-API loaded successfully.
+[15:10:10 INFO]: [LevelledMobs] Enabling LevelledMobs v4.4.0 b137
+[15:10:10 INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[15:10:10 INFO]: [LevelledMobs] Enabling commands
+[15:10:10 INFO]: [LevelledMobs] Using NMS version 1.21.10 for nametag support
+[15:10:10 INFO]: [LevelledMobs] File Loader: Loading files...
+[15:10:10 INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[15:10:10 INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[15:10:10 INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[15:10:10 INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[15:10:10 INFO]: [LevelledMobs] Current rules hash: 8219519fd8b4a104e2156106fe0f4ce21a1a8ed89b47badc8438c27e389aaaad
+[15:10:10 INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[15:10:10 INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[15:10:10 INFO]: [LevelledMobs] Running misc procedures
+[15:10:10 INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[15:10:10 INFO]: [LevelledMobs] Start-up complete (took 216ms)
+[15:10:10 INFO]: [ToolStats] Enabling ToolStats v1.9.10
+[15:10:10 INFO]: [ImageFrame] Enabling ImageFrame v1.8.7.0
+[15:10:11 INFO]: [ToolStats] Yay! You are running the lates version!
+[15:10:12 INFO]: [ImageFrame] ImageFrame has been Enabled!
+[15:10:12 INFO]: [Graves] Enabling Graves v4.9
+[15:10:12 INFO]: [Graves] Integration: Hooked into MiniMessage.
+[15:10:12 ERROR]: Error occurred while enabling Graves v4.9 (Is it up to date?)
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at Graves-4.9.jar/com.ranull.graves.manager.VersionManager.<init>(VersionManager.java:23) ~[Graves-4.9.jar:?]
+	at Graves-4.9.jar/com.ranull.graves.Graves.onEnable(Graves.java:66) ~[Graves-4.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:637) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:368) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:10:12 INFO]: [Graves] Disabling Graves v4.9
+[15:10:12 ERROR]: Error occurred while disabling Graves v4.9
+java.lang.NullPointerException: Cannot invoke "com.ranull.graves.manager.DataManager.closeConnection()" because "this.dataManager" is null
+	at Graves-4.9.jar/com.ranull.graves.Graves.onDisable(Graves.java:95) ~[Graves-4.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:637) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:368) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:10:12 INFO]: [TPort] Enabling TPort v1.21.6
+[15:10:12 INFO]: [TPort] TPort has a Discord server, for any questions/more go to: https://discord.gg/tq5RTmSbHU
+[15:10:12 INFO]: [TPort] Successfully loaded adapter '1.21.10'
+[15:10:12 INFO]: [TPort] Loading language en_us.json
+[15:10:13 ERROR]: [TPort] Tried to enable Dynmap support, Dynmap was not found
+[15:10:13 INFO]: [TPort] Enabling metrics. Thank you for enabling metrics, powered by bStats. To view stats use '/tport metrics viewStats'
+[15:10:13 INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.6.3
+[15:10:13 INFO]: [CrazyEnchantments] Loading the config.yml
+[15:10:13 INFO]: [CrazyEnchantments] Successfully loaded config.yml
+[15:10:13 INFO]: [CrazyEnchantments] Loading the BlockList.yml
+[15:10:13 INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml
+[15:10:13 INFO]: [CrazyEnchantments] Loading the HeadMap.yml
+[15:10:13 INFO]: [CrazyEnchantments] Successfully loaded HeadMap.yml
+[15:10:13 INFO]: [CrazyEnchantments] Loading the Data.yml
+[15:10:13 INFO]: [CrazyEnchantments] Successfully loaded Data.yml
+[15:10:13 INFO]: [CrazyEnchantments] Loading the Enchantments.yml
+[15:10:13 INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml
+[15:10:13 INFO]: [CrazyEnchantments] Loading the GKitz.yml
+[15:10:13 INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml
+[15:10:13 INFO]: [CrazyEnchantments] Loading the Messages.yml
+[15:10:13 INFO]: [CrazyEnchantments] Successfully loaded Messages.yml
+[15:10:13 INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml
+[15:10:13 INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml
+[15:10:13 INFO]: [CrazyEnchantments] Loading the Tinker.yml
+[15:10:13 INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml
+[15:10:13 WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[15:10:13 INFO]: [CrazyEnchantments]: === CrazyEnchantment Hook Status ===
+[15:10:13 INFO]: [CrazyEnchantments]: VAULT NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments]: SUPERIORSKYBLOCK NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments]: WORLDEDIT NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments]: LANDS NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments]: FACTIONS_UUID NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments]: WORLDGUARD NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments]: MCMMO NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments]: TOWNYADVANCED NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments]: PLOT_SQUARED NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments]: GRIEF_PREVENTION NOT FOUND
+[15:10:13 INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[15:10:13 INFO]: [AuraSkills] Enabling AuraSkills v2.3.8
+[15:10:14 INFO]: [AuraSkills] Loaded 21 message files
+[15:10:14 INFO]: [AuraSkills] Successfully registered hook DecentHolograms
+[15:10:14 INFO]: [AuraSkills] Loaded 160 config options in 16 ms
+[15:10:14 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:10:14 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:10:14 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[15:10:14 INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[15:10:14 INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:10:15 INFO]: [spark] Starting background profiler...
+[15:10:15 INFO]: Running delayed init tasks
+[15:10:15 INFO]: [DecentHolograms] Created directory plugins/DecentHolograms/holograms
+[15:10:15 INFO]: [DecentHolograms] Created directory plugins/DecentHolograms/animations
+[15:10:15 INFO]: [TPort] You are running the latest version of TPort
+[15:10:15 INFO]: [AuraSkills] Loaded 11 skills with 317 total sources
+[15:10:15 INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[15:10:15 INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[15:10:15 INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[15:10:16 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:10:16 INFO]: [AuraSkills] Loaded 7 menus
+[15:10:16 INFO]: Done (15.131s)! For help, type "help"
+[15:10:16 INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[15:10:17 INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[15:10:17 INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [TPort]
+[15:10:18 INFO]: Dullpnk127 joined the game
+[15:10:18 INFO]: Dullpnk127[/163.5.171.16:20735] logged in with entity id 1 at ([world]41.53167557070743, 64.0, 528.4485992361554)
+[15:11:11 INFO]: Stopping server
+[15:11:11 INFO]: [AuraSkills] Disabling AuraSkills v2.3.8
+[15:11:11 INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.6.3
+[15:11:11 INFO]: [TPort] Disabling TPort v1.21.6
+[15:11:11 INFO]: [TPort] Auto save backup auto-16-Nov-2025-03_11_11 succeeded
+[15:11:11 INFO]: [ImageFrame] Disabling ImageFrame v1.8.7.0
+[15:11:11 INFO]: [ImageFrame] ImageFrame has been Disabled!
+[15:11:11 INFO]: [ToolStats] Disabling ToolStats v1.9.10
+[15:11:11 INFO]: [LevelledMobs] Disabling LevelledMobs v4.4.0 b137
+[15:11:11 INFO]: [LevelledMobs] Unregistering commands
+[15:11:11 INFO]: Loaded 1461 recipes
+[15:11:11 INFO]: Loaded 1574 advancements
+[15:11:11 INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[15:11:11 INFO]: [LevelledMobs] Shut-down complete (took 317ms)
+[15:11:11 INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[15:11:11 INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[15:11:11 INFO]: [DecentHolograms] Disabling DecentHolograms v2.9.8
+[15:11:11 INFO]: Saving players
+[15:11:11 INFO]: Dullpnk127 lost connection: Server closed
+[15:11:11 INFO]: Dullpnk127 left the game
+[15:11:12 INFO]: Saving worlds
+[15:11:12 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:11:12 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:11:12 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:11:12 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:11:13 INFO]: [ChunkHolderManager] Saved 1444 block chunks, 1444 entity chunks, 0 poi chunks in world 'world' in 1.55s
+[15:11:13 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:11:13 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:11:13 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:11:13 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:11:13 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:11:13 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:11:13 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:11:13 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:11:13 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:11:13 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:11:13 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:11:13 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:11:13 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:11:13 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:11:13 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:11:13 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:11:13 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:11:13 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:11:13 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:11:13 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:11:13 INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:11:13 INFO]: All RegionFile I/O tasks to complete
+[15:11:13 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+2025-11-16T20:11:13.647044369Z Log4j2-AsyncAppenderEventDispatcher-1-Async WARN Advanced terminal features are not available in this environment
+[15:11:13 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+2025-11-16T20:11:15.903219073Z ServerMain WARN Advanced terminal features are not available in this environment
+[15:11:16 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[15:11:16 INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[15:11:16 INFO]: [PluginInitializerManager] Initializing plugins...
+[15:11:16 INFO]: [PluginRemapper] Remapping plugin 'plugins/LiveKit-1.4.9.jar'...
+[15:11:16 INFO]: [PluginRemapper] Done remapping plugin 'plugins/LiveKit-1.4.9.jar' in 470ms.
+[15:11:17 INFO]: [PluginInitializerManager] Initialized 9 plugins
+[15:11:17 INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - AuraSkills (2.3.8), CrazyEnchantments (2.6.3), DecentHolograms (2.9.8), Graves (4.9), ImageFrame (1.8.7.0), LevelledMobs (4.4.0 b137), LiveKit (1.4.9), TPort (1.21.6), ToolStats (1.9.10)
+[15:11:20 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:11:22 INFO]: Loaded 1461 recipes
+[15:11:22 INFO]: Loaded 1574 advancements
+[15:11:22 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:11:22 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 272.6ms
+[15:11:22 INFO]: Starting minecraft server version 1.21.10
+[15:11:22 INFO]: Loading properties
+[15:11:22 INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[15:11:22 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:11:22 INFO]: Server Ping Player Sample Count: 12
+[15:11:22 INFO]: Using 4 threads for Netty based IO
+[15:11:23 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[15:11:23 INFO]: Default game type: SURVIVAL
+[15:11:23 INFO]: Generating keypair
+[15:11:23 INFO]: Starting Minecraft server on *:25565
+[15:11:23 INFO]: Using epoll channel type
+[15:11:23 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:11:23 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:11:23 INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.9.8
+[15:11:23 INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.4.0 b137
+[15:11:23 INFO]: [LevelledMobs] Loading commands
+[15:11:23 INFO]: [ToolStats] Loading server plugin ToolStats v1.9.10
+[15:11:23 INFO]: [ImageFrame] Loading server plugin ImageFrame v1.8.7.0
+[15:11:23 INFO]: [Graves] Loading server plugin Graves v4.9
+[15:11:24 INFO]: [TPort] Loading server plugin TPort v1.21.6
+[15:11:24 INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.6.3
+[15:11:24 INFO]: [LiveKit] Loading server plugin LiveKit v1.4.9
+[15:11:24 INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.8
+[15:11:24 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:11:24 INFO]: Preparing level "world"
+[15:11:24 INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:11:24 INFO]: Prepared spawn area in 0 ms
+[15:11:24 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:11:24 INFO]: Prepared spawn area in 0 ms
+[15:11:24 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:11:24 INFO]: Prepared spawn area in 0 ms
+[15:11:24 INFO]: Done preparing level "world" (0.279s)
+[15:11:24 INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.8
+[15:11:24 INFO]: [DecentHolograms] Initialized NMS adapter for paper_v1_21_R6 (1.21.10).
+[15:11:24 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:11:24 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:11:24 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[15:11:24 INFO]: [DecentHolograms] NBT-API loaded successfully.
+[15:11:24 INFO]: [LevelledMobs] Enabling LevelledMobs v4.4.0 b137
+[15:11:24 INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[15:11:24 INFO]: [LevelledMobs] Enabling commands
+[15:11:24 INFO]: [LevelledMobs] Using NMS version 1.21.10 for nametag support
+[15:11:24 INFO]: [LevelledMobs] File Loader: Loading files...
+[15:11:24 INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[15:11:24 INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[15:11:24 INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[15:11:24 INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[15:11:24 INFO]: [LevelledMobs] Current rules hash: 8219519fd8b4a104e2156106fe0f4ce21a1a8ed89b47badc8438c27e389aaaad
+[15:11:24 INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[15:11:24 INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[15:11:24 INFO]: [LevelledMobs] Running misc procedures
+[15:11:24 INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[15:11:24 INFO]: [LevelledMobs] Start-up complete (took 235ms)
+[15:11:24 INFO]: [ToolStats] Enabling ToolStats v1.9.10
+[15:11:24 INFO]: [ImageFrame] Enabling ImageFrame v1.8.7.0
+[15:11:26 INFO]: [ToolStats] Yay! You are running the lates version!
+[15:11:27 INFO]: [ImageFrame] ImageFrame has been Enabled!
+[15:11:27 INFO]: [Graves] Enabling Graves v4.9
+[15:11:27 INFO]: [Graves] Integration: Hooked into MiniMessage.
+[15:11:27 ERROR]: Error occurred while enabling Graves v4.9 (Is it up to date?)
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at Graves-4.9.jar/com.ranull.graves.manager.VersionManager.<init>(VersionManager.java:23) ~[Graves-4.9.jar:?]
+	at Graves-4.9.jar/com.ranull.graves.Graves.onEnable(Graves.java:66) ~[Graves-4.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:637) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:368) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:11:27 INFO]: [Graves] Disabling Graves v4.9
+[15:11:27 ERROR]: Error occurred while disabling Graves v4.9
+java.lang.NullPointerException: Cannot invoke "com.ranull.graves.manager.DataManager.closeConnection()" because "this.dataManager" is null
+	at Graves-4.9.jar/com.ranull.graves.Graves.onDisable(Graves.java:95) ~[Graves-4.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:637) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:368) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:11:27 INFO]: [TPort] Enabling TPort v1.21.6
+[15:11:27 INFO]: [TPort] TPort has a Discord server, for any questions/more go to: https://discord.gg/tq5RTmSbHU
+[15:11:27 INFO]: [TPort] Permissions.txt did not exist, resetting it...
+[15:11:27 INFO]: [TPort] Successfully loaded adapter '1.21.10'
+[15:11:27 INFO]: [TPort] Loading language en_us.json
+[15:11:27 ERROR]: [TPort] Tried to enable Dynmap support, Dynmap was not found
+[15:11:27 INFO]: [TPort] Enabling metrics. Thank you for enabling metrics, powered by bStats. To view stats use '/tport metrics viewStats'
+[15:11:27 INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.6.3
+[15:11:27 INFO]: [CrazyEnchantments] Loading the config.yml
+[15:11:27 INFO]: [CrazyEnchantments] Successfully loaded config.yml
+[15:11:27 INFO]: [CrazyEnchantments] Loading the BlockList.yml
+[15:11:27 INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml
+[15:11:27 INFO]: [CrazyEnchantments] Loading the HeadMap.yml
+[15:11:27 INFO]: [CrazyEnchantments] Successfully loaded HeadMap.yml
+[15:11:27 INFO]: [CrazyEnchantments] Loading the Data.yml
+[15:11:27 INFO]: [CrazyEnchantments] Successfully loaded Data.yml
+[15:11:27 INFO]: [CrazyEnchantments] Loading the Enchantments.yml
+[15:11:27 INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml
+[15:11:27 INFO]: [CrazyEnchantments] Loading the GKitz.yml
+[15:11:27 INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml
+[15:11:27 INFO]: [CrazyEnchantments] Loading the Messages.yml
+[15:11:27 INFO]: [CrazyEnchantments] Successfully loaded Messages.yml
+[15:11:27 INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml
+[15:11:27 INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml
+[15:11:27 INFO]: [CrazyEnchantments] Loading the Tinker.yml
+[15:11:27 INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml
+[15:11:27 WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[15:11:27 INFO]: [CrazyEnchantments]: === CrazyEnchantment Hook Status ===
+[15:11:27 INFO]: [CrazyEnchantments]: FACTIONS_UUID NOT FOUND
+[15:11:27 INFO]: [CrazyEnchantments]: WORLDGUARD NOT FOUND
+[15:11:27 INFO]: [CrazyEnchantments]: LANDS NOT FOUND
+[15:11:27 INFO]: [CrazyEnchantments]: TOWNYADVANCED NOT FOUND
+[15:11:27 INFO]: [CrazyEnchantments]: WORLDEDIT NOT FOUND
+[15:11:27 INFO]: [CrazyEnchantments]: MCMMO NOT FOUND
+[15:11:27 INFO]: [CrazyEnchantments]: GRIEF_PREVENTION NOT FOUND
+[15:11:27 INFO]: [CrazyEnchantments]: VAULT NOT FOUND
+[15:11:27 INFO]: [CrazyEnchantments]: PLOT_SQUARED NOT FOUND
+[15:11:27 INFO]: [CrazyEnchantments]: SUPERIORSKYBLOCK NOT FOUND
+[15:11:28 INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[15:11:28 INFO]: [LiveKit] Enabling LiveKit v1.4.9
+[15:11:28 INFO]: [LiveKit] Downloaded library https://repo1.maven.org/maven2/com/j256/ormlite/ormlite-core/5.5/ormlite-core-5.5.jar
+[15:11:28 INFO]: [LiveKit] Downloaded library https://repo1.maven.org/maven2/com/j256/ormlite/ormlite-jdbc/5.5/ormlite-jdbc-5.5.jar
+[15:11:28 INFO]: [LiveKit] Downloaded library https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar
+[15:11:28 INFO]: [LiveKit] Downloaded library https://repo1.maven.org/maven2/org/postgresql/postgresql/42.3.9/postgresql-42.3.9.jar
+[15:11:28 INFO]: [LiveKit] Downloaded library https://repo1.maven.org/maven2/org/json/json/20240303/json-20240303.jar
+[15:11:28 INFO]: [LiveKit] Downloaded library https://repo1.maven.org/maven2/org/jsoup/jsoup/1.17.2/jsoup-1.17.2.jar
+[15:11:29 INFO]: [LiveKit] Downloaded library https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.5-1/zstd-jni-1.5.5-1.jar
+[15:11:29 INFO]: [LiveKit] Downloaded library https://jitpack.io/com/github/Querz/NBT/6.1/NBT-6.1.jar
+[15:11:29 INFO]: [LiveKit] Updating config to Multi-World format :)
+[15:11:29 INFO]: [LiveKit] Generating secure console password
+[15:11:29 INFO]: [LiveKit] Using default permissions from config.yml for connected LiveKit clients
+[15:11:29 INFO]: [LiveKit] Initializing storage adapter...[SQLITE]
+[15:11:30 INFO]: [LiveKit] RenderBounds are invalid for world. Falling back to default bounds
+[15:11:30 INFO]: [LiveKit] RenderBounds[shape=ALWAYS_IN;]
+[15:11:30 INFO]: [LiveKit] 0 regions detected for world world took 0ms
+[15:11:30 INFO]: [LiveKit] RenderBounds are invalid for world_the_end. Falling back to default bounds
+[15:11:30 INFO]: [LiveKit] RenderBounds[shape=ALWAYS_IN;]
+[15:11:30 INFO]: [LiveKit] 0 regions detected for world world_the_end took 0ms
+[15:11:30 INFO]: [LiveKit] RenderBounds are invalid for world_nether. Falling back to default bounds
+[15:11:30 INFO]: [LiveKit] RenderBounds[shape=ALWAYS_IN;]
+[15:11:30 INFO]: [LiveKit] 0 regions detected for world world_nether took 0ms
+[15:11:30 INFO]: [LiveKit] Console access password: tOO1qEHIZi
+[15:11:30 INFO]: [LiveKit] Server listening on 4123 for incoming connections
+[15:11:30 INFO]: [AuraSkills] Enabling AuraSkills v2.3.8
+[15:11:30 INFO]: [AuraSkills] Loaded 21 message files
+[15:11:31 INFO]: [AuraSkills] Successfully registered hook DecentHolograms
+[15:11:31 INFO]: [AuraSkills] Loaded 160 config options in 17 ms
+[15:11:31 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:11:31 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:11:31 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[15:11:31 INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[15:11:31 INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:11:31 INFO]: [spark] Starting background profiler...
+[15:11:31 INFO]: Running delayed init tasks
+[15:11:31 INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[15:11:31 INFO]: [TPort] You are running the latest version of TPort
+[15:11:31 INFO]: [AuraSkills] Loaded 11 skills with 317 total sources
+[15:11:32 INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[15:11:32 INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[15:11:32 INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[15:11:32 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:11:32 INFO]: [AuraSkills] Loaded 7 menus
+[15:11:32 INFO]: Done (16.718s)! For help, type "help"
+[15:11:35 INFO]: [LiveKit] Connect via 108.46.204.45:4123 [31m[PROXIED CONNECTION][0m
+[15:11:35 INFO]: [LiveKit] If you want to connect with a hostname instead of your IP, setup the proxy->hostname in the config.yml!
+[15:11:35 WARN]: [LiveKit] NOTE: You need to setup port forwarding for LiveKit port 4123 to enable direct connections! Direct connections offer better performance and stability! Proxy connections are only a fallback if port forwarding is not possible! Only 3 proxy connections are allowed!
+[15:11:39 INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[15:11:39 INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [TPort]
+[15:11:40 INFO]: TonyYuhh joined the game
+[15:11:41 INFO]: TonyYuhh[/100.37.219.212:60360] logged in with entity id 1 at ([world]34.201653296768505, 64.0, 540.3341663486538)
+[15:11:50 INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[15:11:51 INFO]: Dullpnk127 joined the game
+[15:11:51 INFO]: Dullpnk127[/163.5.171.16:37591] logged in with entity id 411 at ([world]36.96485210389531, 64.0, 536.3241966688112)
+[15:13:45 WARN]: java.io.IOException: No space left on device
+[15:13:45 WARN]: 	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+[15:13:45 WARN]: 	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:346)
+[15:13:45 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.saveRegion(RenderWorld.java:560)
+[15:13:45 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.access$10(RenderWorld.java:554)
+[15:13:45 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld$3.run(RenderWorld.java:543)
+[15:13:45 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+2025-11-16T20:13:45.386736264Z Log4j2-AsyncAppenderEventDispatcher-1-Async ERROR Unable to write to stream logs/latest.log for appender File org.apache.logging.log4j.core.appender.AppenderLoggingException: Error writing to RandomAccessFile logs/latest.log
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:228)
+	at org.apache.logging.log4j.core.appender.OutputStreamManager.flushBuffer(OutputStreamManager.java:296)
+	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:259)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.directEncodeEvent(AbstractOutputStreamAppender.java:229)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.tryAppend(AbstractOutputStreamAppender.java:220)
+	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:211)
+	at org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:275)
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+	at org.apache.logging.log4j.core.appender.rewrite.RewriteAppender.append(RewriteAppender.java:89)
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+	at org.apache.logging.log4j.core.appender.rewrite.RewriteAppender.append(RewriteAppender.java:89)
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+	at org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.dispatch(AsyncAppenderEventDispatcher.java:127)
+	at org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.dispatchAll(AsyncAppenderEventDispatcher.java:91)
+	at org.apache.logging.log4j.core.ap[15:13:45 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[15:13:56 WARN]: java.io.IOException: No space left on device
+[15:13:56 WARN]: 	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+[15:13:56 WARN]: 	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:346)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.saveRegion(RenderWorld.java:560)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.access$10(RenderWorld.java:554)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld$3.run(RenderWorld.java:543)
+[15:13:56 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[15:13:56 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[15:13:56 WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[15:13:56 WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[15:13:56 WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[15:13:56 WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[15:13:56 WARN]: java.io.IOException: No space left on device
+[15:13:56 WARN]: 	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+[15:13:56 WARN]: 	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:346)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.saveRegion(RenderWorld.java:560)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.access$10(RenderWorld.java:554)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld$3.run(RenderWorld.java:543)
+[15:13:56 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[15:13:56 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[15:13:56 WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[15:13:56 WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[15:13:56 WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[15:13:56 WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[15:13:56 WARN]: java.io.IOException: No space left on device
+[15:13:56 WARN]: 	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+[15:13:56 WARN]: 	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:346)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.saveRegion(RenderWorld.java:560)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.access$10(RenderWorld.java:554)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld$3.run(RenderWorld.java:543)
+[15:13:56 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[15:13:56 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[15:13:56 WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[15:13:56 WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[15:13:56 WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[15:13:56 WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[15:13:56 WARN]: java.io.IOException: No space left on device
+[15:13:56 WARN]: 	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+[15:13:56 WARN]: 	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:346)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.saveRegion(RenderWorld.java:560)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld.access$10(RenderWorld.java:554)
+[15:13:56 WARN]: 	at LiveKit-1.4.9.jar//at.livekit.map.RenderWorld$3.run(RenderWorld.java:543)
+[15:13:56 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[15:13:56 [15:13:56 WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[15:15:31 WARN]: [spark] Exception occurred while rotating profiler job
+me.lucko.spark.paper.common.sampler.async.JfrParsingException: Error parsing JFR data from profiler output
+	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.aggregate(AsyncProfilerJob.java:221) ~[spark-paper-1.10.152.jar:?]
+	at me.lucko.spark.paper.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:159) ~[spark-paper-1.10.152.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.io.IOException: Not a valid JFR file
+	at me.lucko.spark.paper.common.sampler.async.jfr.JfrReader.readChunk(JfrReader.java:282) ~[spark-paper-1.10.152.jar:?]
+	at me.lucko.spark.paper.common.sampler.async.jfr.JfrReader.<init>(JfrReader.java:89) ~[spark-paper-1.10.152.jar:?]
+	at me.lucko.spark.paper.common.sampler.async.AsyncProfilerJob.aggregate(AsyncProfilerJob.java:210) ~[spark-paper-1.10.152.jar:?]
+	... 7 more
+[15:15:58 INFO]: TonyYuhh issued server command: /home
+[15:16:00 INFO]: TonyYuhh issued server command: /sethomew
+[15:20:32 INFO]: TonyYuhh lost connection: Disconnected
+[15:20:33 INFO]: TonyYuhh left the game
+[15:20:43 INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[15:20:43 INFO]: TonyYuhh joined the game
+[15:20:43 INFO]: TonyYuhh[/100.37.219.212:52824] logged in with entity id 1806 at ([world]-57.62399795186286, -42.0, 439.30000001192093)
+[15:24:46 INFO]: TonyYuhh issued server command: /skills
+[15:34:22 INFO]: TonyYuhh has made the advancement [Ice Bucket Challenge]
+[15:37:20 INFO]: Stopping server
+[15:37:20 INFO]: [AuraSkills] Disabling AuraSkills v2.3.8
+[15:37:20 INFO]: [LiveKit] Disabling LiveKit v1.4.9
+[15:37:20 INFO]: [LiveKit] Server shutdown
+[15:37:20 INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.6.3
+[15:37:20 INFO]: [TPort] Disabling TPort v1.21.6
+[15:37:20 INFO]: [TPort] Auto save backup auto-16-Nov-2025-03_37_20 succeeded
+[15:37:20 INFO]: [ImageFrame] Disabling ImageFrame v1.8.7.0
+[15:37:20 INFO]: [ImageFrame] ImageFrame has been Disabled!
+[15:37:20 INFO]: [ToolStats] Disabling ToolStats v1.9.10
+[15:37:20 INFO]: [LevelledMobs] Disabling LevelledMobs v4.4.0 b137
+[15:37:20 INFO]: [LevelledMobs] Unregistering commands
+[15:37:20 INFO]: Loaded 1461 recipes
+[15:37:20 INFO]: Loaded 1574 advancements
+[15:37:20 INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[15:37:20 INFO]: [LevelledMobs] Shut-down complete (took 306ms)
+[15:37:20 INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[15:37:20 INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[15:37:20 INFO]: [DecentHolograms] Disabling DecentHolograms v2.9.8
+[15:37:20 INFO]: Saving players
+[15:37:20 INFO]: Dullpnk127 lost connection: Server closed
+[15:37:20 INFO]: Dullpnk127 left the game
+[15:37:20 INFO]: TonyYuhh lost connection: Server closed
+[15:37:20 INFO]: TonyYuhh left the game
+[15:37:20 INFO]: Saving worlds
+[15:37:20 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:37:20 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:37:20 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:37:20 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:37:21 INFO]: [ChunkHolderManager] Saved 133 block chunks, 581 entity chunks, 0 poi chunks in world 'world' in 0.25s
+[15:37:21 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:37:21 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:37:21 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:37:21 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:37:21 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:37:21 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:37:21 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:37:21 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:37:21 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:37:21 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:37:21 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:37:21 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:37:21 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:37:21 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:37:21 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:37:21 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:37:21 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:37:21 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:37:21 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:37:21 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:37:21 INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:37:21 INFO]: All RegionFile I/O tasks to complete
+[15:37:21 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:37:21 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+2025-11-16T20:37:23.821200065Z ServerMain WARN Advanced terminal features are not available in this environment
+[15:37:24 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[15:37:24 INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[15:37:24 INFO]: [PluginInitializerManager] Initializing plugins...
+[15:37:26 INFO]: [PluginInitializerManager] Initialized 12 plugins
+[15:37:26 INFO]: [PluginInitializerManager] Paper plugins (3):
+ - Machines (0.6.1), Nova (0.20.5), Simple_Upgrades (1.7.0)
+[15:37:26 INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - AuraSkills (2.3.8), CrazyEnchantments (2.6.3), DecentHolograms (2.9.8), Graves (4.9), ImageFrame (1.8.7.0), LevelledMobs (4.4.0 b137), LiveKit (1.4.9), TPort (1.21.6), ToolStats (1.9.10)
+[15:37:26 ERROR]: [BootstrapProviderStorage] Failed to run bootstrapper for plugins/Nova-0.20.5+MC-1.21.8.jar. This plugin will not be loaded.
+java.lang.Exception: Nova is not compatible with this version of Minecraft.
+Nova v0.20.5 only runs on [1.21.7; 1.21.8].
+	at Nova-0.20.5+MC-1.21.8.jar/xyz.xenondevs.nova.NovaBootstrapper.bootstrap(NovaBootstrapper.kt:63) ~[Nova-0.20.5+MC-1.21.8.jar:?]
+	at io.papermc.paper.plugin.storage.BootstrapProviderStorage$1.load(BootstrapProviderStorage.java:36) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.BootstrapProviderStorage$1.load(BootstrapProviderStorage.java:24) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:117) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enterBootstrappers(LaunchEntryPointHandler.java:29) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.Bootstrap.bootStrap(Bootstrap.java:46) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.Main.main(Main.java:111) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:37:30 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:37:31 INFO]: Loaded 1461 recipes
+[15:37:31 INFO]: Loaded 1574 advancements
+[15:37:31 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:37:32 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 285.5ms
+[15:37:32 INFO]: Starting minecraft server version 1.21.10
+[15:37:32 INFO]: Loading properties
+[15:37:32 INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[15:37:32 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:37:32 INFO]: Server Ping Player Sample Count: 12
+[15:37:32 INFO]: Using 4 threads for Netty based IO
+[15:37:32 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[15:37:32 INFO]: Default game type: SURVIVAL
+[15:37:32 INFO]: Generating keypair
+[15:37:32 INFO]: Starting Minecraft server on *:25565
+[15:37:32 INFO]: Using epoll channel type
+[15:37:32 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:37:32 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:37:32 ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/Simple_Upgrades-1.7.0+Nova-0.20.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Nova]. Please download and install these plugins to run 'Simple_Upgrades'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:37:32 ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/Machines-0.6.1+Nova-0.20.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Simple_Upgrades, Nova]. Please download and install these plugins to run 'Machines'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:37:33 INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.9.8
+[15:37:33 INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.4.0 b137
+[15:37:33 INFO]: [LevelledMobs] Loading commands
+[15:37:33 INFO]: [ToolStats] Loading server plugin ToolStats v1.9.10
+[15:37:33 INFO]: [ImageFrame] Loading server plugin ImageFrame v1.8.7.0
+[15:37:33 INFO]: [Graves] Loading server plugin Graves v4.9
+[15:37:33 INFO]: [TPort] Loading server plugin TPort v1.21.6
+[15:37:33 INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.6.3
+[15:37:33 INFO]: [LiveKit] Loading server plugin LiveKit v1.4.9
+[15:37:33 INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.8
+[15:37:33 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:37:33 INFO]: Preparing level "world"
+[15:37:33 INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:37:33 INFO]: Prepared spawn area in 0 ms
+[15:37:33 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:37:33 INFO]: Prepared spawn area in 0 ms
+[15:37:33 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:37:33 INFO]: Prepared spawn area in 0 ms
+[15:37:33 INFO]: Done preparing level "world" (0.416s)
+[15:37:33 INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.8
+[15:37:33 INFO]: [DecentHolograms] Initialized NMS adapter for paper_v1_21_R6 (1.21.10).
+[15:37:34 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:37:34 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:37:34 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[15:37:34 INFO]: [DecentHolograms] NBT-API loaded successfully.
+[15:37:34 INFO]: [LevelledMobs] Enabling LevelledMobs v4.4.0 b137
+[15:37:34 INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[15:37:34 INFO]: [LevelledMobs] Enabling commands
+[15:37:34 INFO]: [LevelledMobs] Using NMS version 1.21.10 for nametag support
+[15:37:34 INFO]: [LevelledMobs] File Loader: Loading files...
+[15:37:34 INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[15:37:34 INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[15:37:34 INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[15:37:34 INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[15:37:34 INFO]: [LevelledMobs] Current rules hash: 8219519fd8b4a104e2156106fe0f4ce21a1a8ed89b47badc8438c27e389aaaad
+[15:37:34 INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[15:37:34 INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[15:37:34 INFO]: [LevelledMobs] Running misc procedures
+[15:37:34 INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[15:37:34 INFO]: [LevelledMobs] Start-up complete (took 362ms)
+[15:37:34 INFO]: [ToolStats] Enabling ToolStats v1.9.10
+[15:37:34 INFO]: [ImageFrame] Enabling ImageFrame v1.8.7.0
+[15:37:36 INFO]: [ToolStats] Yay! You are running the lates version!
+[15:37:38 INFO]: [ImageFrame] ImageFrame has been Enabled!
+[15:37:38 INFO]: [Graves] Enabling Graves v4.9
+[15:37:38 INFO]: [Graves] Integration: Hooked into MiniMessage.
+[15:37:38 ERROR]: Error occurred while enabling Graves v4.9 (Is it up to date?)
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at Graves-4.9.jar/com.ranull.graves.manager.VersionManager.<init>(VersionManager.java:23) ~[Graves-4.9.jar:?]
+	at Graves-4.9.jar/com.ranull.graves.Graves.onEnable(Graves.java:66) ~[Graves-4.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:637) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:368) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:37:38 INFO]: [Graves] Disabling Graves v4.9
+[15:37:38 ERROR]: Error occurred while disabling Graves v4.9
+java.lang.NullPointerException: Cannot invoke "com.ranull.graves.manager.DataManager.closeConnection()" because "this.dataManager" is null
+	at Graves-4.9.jar/com.ranull.graves.Graves.onDisable(Graves.java:95) ~[Graves-4.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:637) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:368) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:37:38 INFO]: [TPort] Enabling TPort v1.21.6
+[15:37:38 INFO]: [TPort] TPort has a Discord server, for any questions/more go to: https://discord.gg/tq5RTmSbHU
+[15:37:38 INFO]: [TPort] Successfully loaded adapter '1.21.10'
+[15:37:38 INFO]: [TPort] Loading language en_us.json
+[15:37:38 ERROR]: [TPort] Tried to enable Dynmap support, Dynmap was not found
+[15:37:38 INFO]: [TPort] Enabling metrics. Thank you for enabling metrics, powered by bStats. To view stats use '/tport metrics viewStats'
+[15:37:38 INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.6.3
+[15:37:38 INFO]: [CrazyEnchantments] Loading the config.yml
+[15:37:38 INFO]: [CrazyEnchantments] Successfully loaded config.yml
+[15:37:38 INFO]: [CrazyEnchantments] Loading the BlockList.yml
+[15:37:38 INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml
+[15:37:38 INFO]: [CrazyEnchantments] Loading the HeadMap.yml
+[15:37:38 INFO]: [CrazyEnchantments] Successfully loaded HeadMap.yml
+[15:37:38 INFO]: [CrazyEnchantments] Loading the Data.yml
+[15:37:38 INFO]: [CrazyEnchantments] Successfully loaded Data.yml
+[15:37:38 INFO]: [CrazyEnchantments] Loading the Enchantments.yml
+[15:37:38 INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml
+[15:37:38 INFO]: [CrazyEnchantments] Loading the GKitz.yml
+[15:37:38 INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml
+[15:37:38 INFO]: [CrazyEnchantments] Loading the Messages.yml
+[15:37:38 INFO]: [CrazyEnchantments] Successfully loaded Messages.yml
+[15:37:38 INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml
+[15:37:38 INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml
+[15:37:38 INFO]: [CrazyEnchantments] Loading the Tinker.yml
+[15:37:38 INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml
+[15:37:39 WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[15:37:39 INFO]: [CrazyEnchantments]: === CrazyEnchantment Hook Status ===
+[15:37:39 INFO]: [CrazyEnchantments]: WORLDGUARD NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments]: VAULT NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments]: SUPERIORSKYBLOCK NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments]: FACTIONS_UUID NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments]: WORLDEDIT NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments]: GRIEF_PREVENTION NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments]: MCMMO NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments]: LANDS NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments]: PLOT_SQUARED NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments]: TOWNYADVANCED NOT FOUND
+[15:37:39 INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[15:37:39 INFO]: [LiveKit] Enabling LiveKit v1.4.9
+[15:37:39 INFO]: [LiveKit] Using default permissions from config.yml for connected LiveKit clients
+[15:37:39 INFO]: [LiveKit] Initializing storage adapter...[SQLITE]
+[15:37:39 INFO]: [LiveKit] 41 regions detected for world world took 4ms
+[15:37:39 INFO]: [LiveKit] 0 regions detected for world world_the_end took 0ms
+[15:37:39 INFO]: [LiveKit] 11 regions detected for world world_nether took 3ms
+[15:37:39 INFO]: [LiveKit] Console access password: tOO1qEHIZi
+[15:37:39 INFO]: [LiveKit] Server listening on 4123 for incoming connections
+[15:37:39 INFO]: [AuraSkills] Enabling AuraSkills v2.3.8
+[15:37:40 INFO]: [AuraSkills] Loaded 21 message files
+[15:37:40 INFO]: [AuraSkills] Successfully registered hook DecentHolograms
+[15:37:40 INFO]: [AuraSkills] Loaded 160 config options in 17 ms
+[15:37:40 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:37:40 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:37:40 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[15:37:40 INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[15:37:40 INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:37:41 INFO]: [spark] Starting background profiler...
+[15:37:41 INFO]: Running delayed init tasks
+[15:37:41 INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[15:37:41 INFO]: [TPort] You are running the latest version of TPort
+[15:37:41 INFO]: [AuraSkills] Loaded 11 skills with 317 total sources
+[15:37:41 INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[15:37:41 INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[15:37:41 INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[15:37:41 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:37:41 INFO]: [AuraSkills] Loaded 7 menus
+[15:37:41 INFO]: Done (18.271s)! For help, type "help"
+[15:37:44 INFO]: [LiveKit] Connect via 108.46.204.45:4123 [31m[PROXIED CONNECTION][0m
+[15:37:44 INFO]: [LiveKit] If you want to connect with a hostname instead of your IP, setup the proxy->hostname in the config.yml!
+[15:37:44 WARN]: [LiveKit] NOTE: You need to setup port forwarding for LiveKit port 4123 to enable direct connections! Direct connections offer better performance and stability! Proxy connections are only a fallback if port forwarding is not possible! Only 3 proxy connections are allowed!
+[15:37:48 INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[15:37:48 INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [TPort]
+[15:37:48 INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[15:37:49 INFO]: DubstepCow_ joined the game
+[15:37:49 INFO]: DubstepCow_[/96.239.102.77:45768] logged in with entity id 1 at ([world]20.163577174054463, 76.0, -42.24509263433688)
+[15:37:49 INFO]: Dullpnk127 joined the game
+[15:37:49 INFO]: Dullpnk127[/163.5.171.16:5054] logged in with entity id 2 at ([world]71.33169257135253, 64.0, 522.2698409425883)
+[15:37:53 INFO]: DubstepCow_ issued server command: /plugins
+[15:37:57 INFO]: Dullpnk127 issued server command: /plugins
+[15:38:12 INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[15:38:13 INFO]: TonyYuhh joined the game
+[15:38:13 INFO]: TonyYuhh[/100.37.219.212:52125] logged in with entity id 956 at ([world]-125.54292304580791, -25.0, 589.3000000119209)
+[15:38:36 INFO]: DubstepCow_ was slain by Lvl 12 | Zombie
+[15:38:50 INFO]: DubstepCow_ lost connection: Disconnected
+[15:38:50 INFO]: DubstepCow_ left the game
+[15:39:15 INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[15:39:15 INFO]: DubstepCow_ joined the game
+[15:39:15 INFO]: DubstepCow_[/96.239.102.77:36574] logged in with entity id 1591 at ([world]18.916119842398228, 76.0, -43.95230686501937)
+[15:39:40 INFO]: DubstepCow_ lost connection: Disconnected
+[15:39:40 INFO]: DubstepCow_ left the game
+[15:42:09 INFO]: Stopping server
+[15:42:09 INFO]: [AuraSkills] Disabling AuraSkills v2.3.8
+[15:42:09 INFO]: [LiveKit] Disabling LiveKit v1.4.9
+[15:42:09 INFO]: [LiveKit] Server shutdown
+[15:42:09 INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.6.3
+[15:42:09 INFO]: [TPort] Disabling TPort v1.21.6
+[15:42:09 INFO]: [TPort] Auto save backup auto-16-Nov-2025-03_42_09 succeeded
+[15:42:09 INFO]: [ImageFrame] Disabling ImageFrame v1.8.7.0
+[15:42:09 INFO]: [ImageFrame] ImageFrame has been Disabled!
+[15:42:09 INFO]: [ToolStats] Disabling ToolStats v1.9.10
+[15:42:09 INFO]: [LevelledMobs] Disabling LevelledMobs v4.4.0 b137
+[15:42:09 INFO]: [LevelledMobs] Unregistering commands
+[15:42:10 INFO]: Loaded 1461 recipes
+[15:42:10 INFO]: Loaded 1574 advancements
+[15:42:10 INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[15:42:10 INFO]: [LevelledMobs] Shut-down complete (took 325ms)
+[15:42:10 INFO]: [DecentHolograms] Disabling DecentHolograms v2.9.8
+[15:42:10 INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[15:42:10 INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[15:42:10 INFO]: Saving players
+[15:42:10 INFO]: Dullpnk127 lost connection: Server closed
+[15:42:10 INFO]: Dullpnk127 left the game
+[15:42:10 INFO]: TonyYuhh lost connection: Server closed
+[15:42:10 INFO]: TonyYuhh left the game
+[15:42:10 INFO]: Saving worlds
+[15:42:10 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:42:10 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:42:10 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:42:10 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:42:14 INFO]: [ChunkHolderManager] Saved 2458 block chunks, 2458 entity chunks, 0 poi chunks in world 'world' in 3.72s
+[15:42:14 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:42:14 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:42:14 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:42:14 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:42:14 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:42:14 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:42:14 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:42:14 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:42:14 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:42:14 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:42:14 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:42:14 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:42:14 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:42:14 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:42:14 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:42:14 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:42:14 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:42:14 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:42:14 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:42:14 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:42:14 INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:42:14 INFO]: All RegionFile I/O tasks to complete
+[15:42:14 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:42:14 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+2025-11-16T20:42:16.235107071Z ServerMain WARN Advanced terminal features are not available in this environment
+[15:42:16 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[15:42:16 INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[15:42:16 INFO]: [PluginInitializerManager] Initializing plugins...
+[15:42:16 INFO]: [PluginRemapper] Remapping plugin 'plugins/deathchest.jar'...
+[15:42:17 INFO]: [PluginRemapper] Done remapping plugin 'plugins/deathchest.jar' in 258ms.
+[15:42:18 INFO]: [PluginInitializerManager] Initialized 13 plugins
+[15:42:18 INFO]: [PluginInitializerManager] Paper plugins (3):
+ - Machines (0.6.1), Nova (0.20.5), Simple_Upgrades (1.7.0)
+[15:42:18 INFO]: [PluginInitializerManager] Bukkit plugins (10):
+ - AuraSkills (2.3.8), CrazyEnchantments (2.6.3), DeathChest (2.2.9), DecentHolograms (2.9.8), Graves (4.9), ImageFrame (1.8.7.0), LevelledMobs (4.4.0 b137), LiveKit (1.4.9), TPort (1.21.6), ToolStats (1.9.10)
+[15:42:18 ERROR]: [BootstrapProviderStorage] Failed to run bootstrapper for plugins/Nova-0.20.5+MC-1.21.8.jar. This plugin will not be loaded.
+java.lang.Exception: Nova is not compatible with this version of Minecraft.
+Nova v0.20.5 only runs on [1.21.7; 1.21.8].
+	at Nova-0.20.5+MC-1.21.8.jar/xyz.xenondevs.nova.NovaBootstrapper.bootstrap(NovaBootstrapper.kt:63) ~[Nova-0.20.5+MC-1.21.8.jar:?]
+	at io.papermc.paper.plugin.storage.BootstrapProviderStorage$1.load(BootstrapProviderStorage.java:36) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.BootstrapProviderStorage$1.load(BootstrapProviderStorage.java:24) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:117) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enterBootstrappers(LaunchEntryPointHandler.java:29) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.Bootstrap.bootStrap(Bootstrap.java:46) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.Main.main(Main.java:111) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:42:22 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:42:24 INFO]: Loaded 1461 recipes
+[15:42:24 INFO]: Loaded 1574 advancements
+[15:42:24 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:42:24 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 316.8ms
+[15:42:24 INFO]: Starting minecraft server version 1.21.10
+[15:42:24 INFO]: Loading properties
+[15:42:24 INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[15:42:24 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:42:24 INFO]: Server Ping Player Sample Count: 12
+[15:42:24 INFO]: Using 4 threads for Netty based IO
+[15:42:25 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[15:42:25 INFO]: Default game type: SURVIVAL
+[15:42:25 INFO]: Generating keypair
+[15:42:25 INFO]: Starting Minecraft server on *:25565
+[15:42:25 INFO]: Using epoll channel type
+[15:42:25 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:42:25 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:42:25 ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/Simple_Upgrades-1.7.0+Nova-0.20.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Nova]. Please download and install these plugins to run 'Simple_Upgrades'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:42:25 ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/Machines-0.6.1+Nova-0.20.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Simple_Upgrades, Nova]. Please download and install these plugins to run 'Machines'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:42:25 INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[15:42:25 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.pom
+[15:42:25 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-parent/54/commons-parent-54.pom
+[15:42:25 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/apache/27/apache-27.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.9.1/junit-bom-5.9.1.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/apache/23/apache-23.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/guice/7.0.0/guice-7.0.0.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/guice-parent/7.0.0/guice-parent-7.0.0.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/google/5/google-5.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom
+[15:42:26 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/31.0.1-jre/guava-parent-31.0.1-jre.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/26.0-android/guava-parent-26.0-android.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_parent/2.7.1/error_prone_parent-2.7.1.pom
+[15:42:27 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.pom
+[15:42:28 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.pom
+[15:42:28 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.pom
+[15:42:28 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.pom
+[15:42:28 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.pom
+[15:42:28 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom
+[15:42:28 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.pom
+[15:42:28 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.pom
+[15:42:28 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.pom
+[15:42:28 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-api/4.13.0/adventure-api-4.13.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/4.13.0/adventure-bom-4.13.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-key/4.13.0/adventure-key-4.13.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/22.0.0/annotations-22.0.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.pom
+[15:42:29 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/4.14.0/adventure-bom-4.14.0.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.pom
+[15:42:30 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[15:42:31 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[15:42:31 INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.9.8
+[15:42:31 INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.4.0 b137
+[15:42:31 INFO]: [LevelledMobs] Loading commands
+[15:42:31 INFO]: [ToolStats] Loading server plugin ToolStats v1.9.10
+[15:42:31 INFO]: [ImageFrame] Loading server plugin ImageFrame v1.8.7.0
+[15:42:31 INFO]: [Graves] Loading server plugin Graves v4.9
+[15:42:32 INFO]: [TPort] Loading server plugin TPort v1.21.6
+[15:42:32 INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.6.3
+[15:42:32 INFO]: [DeathChest] Loading server plugin DeathChest v2.2.9
+[15:42:32 INFO]: [LiveKit] Loading server plugin LiveKit v1.4.9
+[15:42:32 INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.8
+[15:42:32 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:42:32 INFO]: Preparing level "world"
+[15:42:32 INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:42:32 INFO]: Preparing spawn area: 100%
+[15:42:32 INFO]: Prepared spawn area in 1 ms
+[15:42:32 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:42:32 INFO]: Prepared spawn area in 0 ms
+[15:42:32 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:42:32 INFO]: Prepared spawn area in 0 ms
+[15:42:32 INFO]: Done preparing level "world" (0.319s)
+[15:42:32 INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.8
+[15:42:32 INFO]: [DecentHolograms] Initialized NMS adapter for paper_v1_21_R6 (1.21.10).
+[15:42:32 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:42:32 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:42:32 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[15:42:32 INFO]: [DecentHolograms] NBT-API loaded successfully.
+[15:42:32 INFO]: [LevelledMobs] Enabling LevelledMobs v4.4.0 b137
+[15:42:32 INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[15:42:32 INFO]: [LevelledMobs] Enabling commands
+[15:42:32 INFO]: [LevelledMobs] Using NMS version 1.21.10 for nametag support
+[15:42:32 INFO]: [LevelledMobs] File Loader: Loading files...
+[15:42:32 INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[15:42:32 INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[15:42:32 INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[15:42:32 INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[15:42:32 INFO]: [LevelledMobs] Current rules hash: 8219519fd8b4a104e2156106fe0f4ce21a1a8ed89b47badc8438c27e389aaaad
+[15:42:32 INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[15:42:32 INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[15:42:32 INFO]: [LevelledMobs] Running misc procedures
+[15:42:32 INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[15:42:32 INFO]: [LevelledMobs] Start-up complete (took 287ms)
+[15:42:32 INFO]: [ToolStats] Enabling ToolStats v1.9.10
+[15:42:32 INFO]: [ImageFrame] Enabling ImageFrame v1.8.7.0
+[15:42:33 INFO]: Stopping server
+[15:42:34 INFO]: [ToolStats] Yay! You are running the lates version!
+[15:42:35 INFO]: [ImageFrame] ImageFrame has been Enabled!
+[15:42:35 INFO]: [ImageFrame] Disabling ImageFrame v1.8.7.0
+[15:42:35 INFO]: [ImageFrame] ImageFrame has been Disabled!
+[15:42:35 INFO]: [ToolStats] Disabling ToolStats v1.9.10
+[15:42:35 INFO]: [LevelledMobs] Disabling LevelledMobs v4.4.0 b137
+[15:42:35 INFO]: [LevelledMobs] Unregistering commands
+[15:42:35 INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[15:42:35 INFO]: [LevelledMobs] Shut-down complete (took 1ms)
+[15:42:35 INFO]: [DecentHolograms] Disabling DecentHolograms v2.9.8
+[15:42:35 INFO]: [Graves] Enabling Graves v4.9
+[15:42:35 INFO]: [Graves] Integration: Hooked into MiniMessage.
+[15:42:35 INFO]: Saving players
+[15:42:35 ERROR]: Error occurred while enabling Graves v4.9 (Is it up to date?)
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at Graves-4.9.jar/com.ranull.graves.manager.VersionManager.<init>(VersionManager.java:23) ~[Graves-4.9.jar:?]
+	at Graves-4.9.jar/com.ranull.graves.Graves.onEnable(Graves.java:66) ~[Graves-4.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:637) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:368) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:42:35 INFO]: [Graves] Disabling Graves v4.9
+[15:42:35 WARN]: Asynchronous Save Players! Blocking thread until it returns 
+java.lang.IllegalStateException: null
+	at io.papermc.paper.util.MCUtil.ensureMain(MCUtil.java:129) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.players.PlayerList.saveAll(PlayerList.java:947) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.players.PlayerList.saveAll(PlayerList.java:943) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1028) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:917) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.close(MinecraftServer.java:985) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.util.ServerShutdownThread.run(ServerShutdownThread.java:26) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+[15:42:35 ERROR]: Error occurred while disabling Graves v4.9
+java.lang.NullPointerException: Cannot invoke "com.ranull.graves.manager.DataManager.closeConnection()" because "this.dataManager" is null
+	at Graves-4.9.jar/com.ranull.graves.Graves.onDisable(Graves.java:95) ~[Graves-4.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.10-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:637) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:368) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:42:35 INFO]: [TPort] Enabling TPort v1.21.6
+[15:42:35 INFO]: [TPort] TPort has a Discord server, for any questions/more go to: https://discord.gg/tq5RTmSbHU
+[15:42:35 INFO]: [TPort] Successfully loaded adapter '1.21.10'
+[15:42:35 INFO]: [TPort] Loading language en_us.json
+[15:42:35 ERROR]: [TPort] Tried to enable Dynmap support, Dynmap was not found
+[15:42:35 INFO]: [TPort] Enabling metrics. Thank you for enabling metrics, powered by bStats. To view stats use '/tport metrics viewStats'
+[15:42:35 INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.6.3
+[15:42:35 INFO]: [CrazyEnchantments] Loading the config.yml
+[15:42:35 INFO]: [CrazyEnchantments] Successfully loaded config.yml
+[15:42:35 INFO]: [CrazyEnchantments] Loading the BlockList.yml
+[15:42:35 INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml
+[15:42:35 INFO]: [CrazyEnchantments] Loading the HeadMap.yml
+[15:42:35 INFO]: [CrazyEnchantments] Successfully loaded HeadMap.yml
+[15:42:35 INFO]: [CrazyEnchantments] Loading the Data.yml
+[15:42:35 INFO]: [CrazyEnchantments] Successfully loaded Data.yml
+[15:42:35 INFO]: [CrazyEnchantments] Loading the Enchantments.yml
+[15:42:35 INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml
+[15:42:35 INFO]: [CrazyEnchantments] Loading the GKitz.yml
+[15:42:35 INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml
+[15:42:35 INFO]: [CrazyEnchantments] Loading the Messages.yml
+[15:42:35 INFO]: [CrazyEnchantments] Successfully loaded Messages.yml
+[15:42:35 INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml
+[15:42:35 INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml
+[15:42:35 INFO]: [CrazyEnchantments] Loading the Tinker.yml
+[15:42:35 INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml
+[15:42:35 WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[15:42:35 INFO]: [CrazyEnchantments]: === CrazyEnchantment Hook Status ===
+[15:42:35 INFO]: [CrazyEnchantments]: WORLDEDIT NOT FOUND
+[15:42:35 INFO]: [CrazyEnchantments]: PLOT_SQUARED NOT FOUND
+[15:42:35 INFO]: [CrazyEnchantments]: VAULT NOT FOUND
+[15:42:35 INFO]: [CrazyEnchantments]: MCMMO NOT FOUND
+[15:42:35 INFO]: [CrazyEnchantments]: GRIEF_PREVENTION NOT FOUND
+[15:42:35 INFO]: [CrazyEnchantments]: TOWNYADVANCED NOT FOUND
+[15:42:36 INFO]: [CrazyEnchantments]: FACTIONS_UUID NOT FOUND
+[15:42:36 INFO]: [CrazyEnchantments]: WORLDGUARD NOT FOUND
+[15:42:36 INFO]: [CrazyEnchantments]: SUPERIORSKYBLOCK NOT FOUND
+[15:42:36 INFO]: [CrazyEnchantments]: LANDS NOT FOUND
+[15:42:36 INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[15:42:36 INFO]: [DeathChest] Enabling DeathChest v2.2.9
+[15:42:36 INFO]: [DeathChest] 0 death chests loaded in world "world"
+[15:42:36 INFO]: [DeathChest]   Of these 0 have expired
+[15:42:36 INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[15:42:36 INFO]: [DeathChest]   Of these 0 have expired
+[15:42:36 INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[15:42:36 INFO]: [DeathChest]   Of these 0 have expired
+[15:42:36 INFO]: [LiveKit] Enabling LiveKit v1.4.9
+[15:42:36 INFO]: [LiveKit] Using default permissions from config.yml for connected LiveKit clients
+[15:42:36 INFO]: [LiveKit] Initializing storage adapter...[SQLITE]
+[15:42:36 INFO]: [LiveKit] 42 regions detected for world world took 2ms
+[15:42:36 INFO]: [LiveKit] 0 regions detected for world world_the_end took 0ms
+[15:42:36 INFO]: [LiveKit] 11 regions detected for world world_nether took 0ms
+[15:42:36 INFO]: [LiveKit] Console access password: tOO1qEHIZi
+[15:42:36 INFO]: [LiveKit] Server listening on 4123 for incoming connections
+[15:42:36 INFO]: [AuraSkills] Enabling AuraSkills v2.3.8
+[15:42:37 INFO]: [AuraSkills] Loaded 21 message files
+[15:42:37 INFO]: [AuraSkills] Loaded 160 config options in 12 ms
+[15:42:37 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:42:37 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:42:37 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[15:42:37 INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[15:42:37 INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:42:38 INFO]: [spark] Starting background profiler...
+[15:42:38 INFO]: Running delayed init tasks
+[15:42:38 INFO]: [TPort] You are running the latest version of TPort
+[15:42:38 INFO]: [AuraSkills] Loaded 11 skills with 317 total sources
+[15:42:38 INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[15:42:38 INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[15:42:38 INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[15:42:38 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:42:38 INFO]: [AuraSkills] Loaded 7 menus
+[15:42:38 INFO]: Done (22.880s)! For help, type "help"
+[15:42:42 INFO]: [LiveKit] Connect via 108.46.204.45:4123 [31m[PROXIED CONNECTION][0m
+[15:42:42 INFO]: [LiveKit] If you want to connect with a hostname instead of your IP, setup the proxy->hostname in the config.yml!
+[15:42:42 WARN]: [LiveKit] NOTE: You need to setup port forwarding for LiveKit port 4123 to enable direct connections! Direct connections offer better performance and stability! Proxy connections are only a fallback if port forwarding is not possible! Only 3 proxy connections are allowed!
+[15:43:43 WARN]: [spark] Timed out waiting for world statistics
+Starting org.bukkit.craftbukkit.Main
+2025-11-16T20:44:11.123076461Z ServerMain WARN Advanced terminal features are not available in this environment
+[15:44:11 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Eclipse Adoptium Temurin-21.0.6+7) on Linux 6.1.0-40-amd64 (amd64)
+[15:44:11 INFO]: [bootstrap] Loading Paper 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) for Minecraft 1.21.10
+[15:44:11 INFO]: [PluginInitializerManager] Initializing plugins...
+[15:44:12 INFO]: [PluginInitializerManager] Initialized 12 plugins
+[15:44:12 INFO]: [PluginInitializerManager] Paper plugins (3):
+ - Machines (0.6.1), Nova (0.20.5), Simple_Upgrades (1.7.0)
+[15:44:12 INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - AuraSkills (2.3.8), CrazyEnchantments (2.6.3), DeathChest (2.2.9), DecentHolograms (2.9.8), ImageFrame (1.8.7.0), LevelledMobs (4.4.0 b137), LiveKit (1.4.9), TPort (1.21.6), ToolStats (1.9.10)
+[15:44:13 ERROR]: [BootstrapProviderStorage] Failed to run bootstrapper for plugins/Nova-0.20.5+MC-1.21.8.jar. This plugin will not be loaded.
+java.lang.Exception: Nova is not compatible with this version of Minecraft.
+Nova v0.20.5 only runs on [1.21.7; 1.21.8].
+	at Nova-0.20.5+MC-1.21.8.jar/xyz.xenondevs.nova.NovaBootstrapper.bootstrap(NovaBootstrapper.kt:63) ~[Nova-0.20.5+MC-1.21.8.jar:?]
+	at io.papermc.paper.plugin.storage.BootstrapProviderStorage$1.load(BootstrapProviderStorage.java:36) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.BootstrapProviderStorage$1.load(BootstrapProviderStorage.java:24) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:117) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enterBootstrappers(LaunchEntryPointHandler.java:29) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.Bootstrap.bootStrap(Bootstrap.java:46) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.Main.main(Main.java:111) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:44:17 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:44:18 INFO]: Loaded 1461 recipes
+[15:44:18 INFO]: Loaded 1574 advancements
+[15:44:18 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:44:18 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 324.8ms
+[15:44:18 INFO]: Starting minecraft server version 1.21.10
+[15:44:18 INFO]: Loading properties
+[15:44:19 INFO]: This server is running Paper version 1.21.10-113-main@9fc21bc (2025-11-14T16:11:13Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[15:44:19 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:44:19 INFO]: Server Ping Player Sample Count: 12
+[15:44:19 INFO]: Using 4 threads for Netty based IO
+[15:44:19 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[15:44:19 INFO]: Default game type: SURVIVAL
+[15:44:19 INFO]: Generating keypair
+[15:44:19 INFO]: Starting Minecraft server on *:25565
+[15:44:19 INFO]: Using epoll channel type
+[15:44:19 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:44:19 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:44:19 ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/Simple_Upgrades-1.7.0+Nova-0.20.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Nova]. Please download and install these plugins to run 'Simple_Upgrades'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:44:19 ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/Machines-0.6.1+Nova-0.20.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Simple_Upgrades, Nova]. Please download and install these plugins to run 'Machines'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1257) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:384) ~[paper-1.21.10.jar:1.21.10-113-9fc21bc]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[15:44:19 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[15:44:20 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[15:44:20 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[15:44:20 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[15:44:20 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[15:44:20 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[15:44:20 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[15:44:20 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[15:44:20 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[15:44:20 INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /home/brian/minecraft-server/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[15:44:20 INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.9.8
+[15:44:20 INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.4.0 b137
+[15:44:20 INFO]: [LevelledMobs] Loading commands
+[15:44:20 INFO]: [ToolStats] Loading server plugin ToolStats v1.9.10
+[15:44:20 INFO]: [ImageFrame] Loading server plugin ImageFrame v1.8.7.0
+[15:44:20 INFO]: [TPort] Loading server plugin TPort v1.21.6
+[15:44:20 INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.6.3
+[15:44:20 INFO]: [DeathChest] Loading server plugin DeathChest v2.2.9
+[15:44:20 INFO]: [LiveKit] Loading server plugin LiveKit v1.4.9
+[15:44:20 INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.8
+[15:44:20 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:44:20 INFO]: Preparing level "world"
+[15:44:20 INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[15:44:20 INFO]: Prepared spawn area in 0 ms
+[15:44:20 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[15:44:20 INFO]: Prepared spawn area in 0 ms
+[15:44:20 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[15:44:20 INFO]: Prepared spawn area in 0 ms
+[15:44:20 INFO]: Done preparing level "world" (0.284s)
+[15:44:20 INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.8
+[15:44:20 INFO]: [DecentHolograms] Initialized NMS adapter for paper_v1_21_R6 (1.21.10).
+[15:44:20 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:44:20 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:44:20 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[15:44:20 INFO]: [DecentHolograms] NBT-API loaded successfully.
+[15:44:20 INFO]: [LevelledMobs] Enabling LevelledMobs v4.4.0 b137
+[15:44:20 INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[15:44:20 INFO]: [LevelledMobs] Enabling commands
+[15:44:20 INFO]: [LevelledMobs] Using NMS version 1.21.10 for nametag support
+[15:44:20 INFO]: [LevelledMobs] File Loader: Loading files...
+[15:44:20 INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[15:44:20 INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[15:44:20 INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[15:44:20 INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[15:44:20 INFO]: [LevelledMobs] Current rules hash: 8219519fd8b4a104e2156106fe0f4ce21a1a8ed89b47badc8438c27e389aaaad
+[15:44:20 INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[15:44:20 INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[15:44:20 INFO]: [LevelledMobs] Running misc procedures
+[15:44:20 INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[15:44:20 INFO]: [LevelledMobs] Start-up complete (took 224ms)
+[15:44:20 INFO]: [ToolStats] Enabling ToolStats v1.9.10
+[15:44:20 INFO]: [ImageFrame] Enabling ImageFrame v1.8.7.0
+[15:44:22 INFO]: [ToolStats] Yay! You are running the lates version!
+[15:44:23 INFO]: [ImageFrame] ImageFrame has been Enabled!
+[15:44:23 INFO]: [TPort] Enabling TPort v1.21.6
+[15:44:23 INFO]: [TPort] TPort has a Discord server, for any questions/more go to: https://discord.gg/tq5RTmSbHU
+[15:44:23 INFO]: [TPort] Successfully loaded adapter '1.21.10'
+[15:44:23 INFO]: [TPort] Loading language en_us.json
+[15:44:23 ERROR]: [TPort] Tried to enable Dynmap support, Dynmap was not found
+[15:44:23 INFO]: [TPort] Enabling metrics. Thank you for enabling metrics, powered by bStats. To view stats use '/tport metrics viewStats'
+[15:44:23 INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.6.3
+[15:44:23 INFO]: [CrazyEnchantments] Loading the config.yml
+[15:44:23 INFO]: [CrazyEnchantments] Successfully loaded config.yml
+[15:44:23 INFO]: [CrazyEnchantments] Loading the BlockList.yml
+[15:44:23 INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml
+[15:44:23 INFO]: [CrazyEnchantments] Loading the HeadMap.yml
+[15:44:23 INFO]: [CrazyEnchantments] Successfully loaded HeadMap.yml
+[15:44:23 INFO]: [CrazyEnchantments] Loading the Data.yml
+[15:44:23 INFO]: [CrazyEnchantments] Successfully loaded Data.yml
+[15:44:23 INFO]: [CrazyEnchantments] Loading the Enchantments.yml
+[15:44:23 INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml
+[15:44:23 INFO]: [CrazyEnchantments] Loading the GKitz.yml
+[15:44:23 INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml
+[15:44:23 INFO]: [CrazyEnchantments] Loading the Messages.yml
+[15:44:23 INFO]: [CrazyEnchantments] Successfully loaded Messages.yml
+[15:44:23 INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml
+[15:44:23 INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml
+[15:44:23 INFO]: [CrazyEnchantments] Loading the Tinker.yml
+[15:44:23 INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml
+[15:44:24 WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[15:44:24 INFO]: [CrazyEnchantments]: === CrazyEnchantment Hook Status ===
+[15:44:24 INFO]: [CrazyEnchantments]: WORLDGUARD NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments]: VAULT NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments]: GRIEF_PREVENTION NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments]: TOWNYADVANCED NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments]: PLOT_SQUARED NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments]: LANDS NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments]: MCMMO NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments]: FACTIONS_UUID NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments]: WORLDEDIT NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments]: SUPERIORSKYBLOCK NOT FOUND
+[15:44:24 INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[15:44:24 INFO]: [DeathChest] Enabling DeathChest v2.2.9
+[15:44:24 INFO]: [DeathChest] 0 death chests loaded in world "world"
+[15:44:24 INFO]: [DeathChest]   Of these 0 have expired
+[15:44:24 INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[15:44:24 INFO]: [DeathChest]   Of these 0 have expired
+[15:44:24 INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[15:44:24 INFO]: [DeathChest]   Of these 0 have expired
+[15:44:24 INFO]: [LiveKit] Enabling LiveKit v1.4.9
+[15:44:24 INFO]: [LiveKit] Using default permissions from config.yml for connected LiveKit clients
+[15:44:24 INFO]: [LiveKit] Initializing storage adapter...[SQLITE]
+[15:44:24 INFO]: [LiveKit] 42 regions detected for world world took 2ms
+[15:44:24 INFO]: [LiveKit] 0 regions detected for world world_the_end took 0ms
+[15:44:24 INFO]: [LiveKit] 11 regions detected for world world_nether took 1ms
+[15:44:24 INFO]: [LiveKit] Console access password: tOO1qEHIZi
+[15:44:24 INFO]: [LiveKit] Server listening on 4123 for incoming connections
+[15:44:25 INFO]: [AuraSkills] Enabling AuraSkills v2.3.8
+[15:44:25 INFO]: [AuraSkills] Loaded 21 message files
+[15:44:25 INFO]: [AuraSkills] Successfully registered hook DecentHolograms
+[15:44:25 INFO]: [AuraSkills] Loaded 160 config options in 19 ms
+[15:44:25 INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.10! Trying to find NMS support
+[15:44:25 INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R6' loaded!
+[15:44:25 INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[15:44:26 INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[15:44:26 INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:44:26 INFO]: [spark] Starting background profiler...
+[15:44:26 INFO]: Running delayed init tasks
+[15:44:26 INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[15:44:26 INFO]: [TPort] You are running the latest version of TPort
+[15:44:26 INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[15:44:26 INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[15:44:27 INFO]: [AuraSkills] Loaded 11 skills with 317 total sources
+[15:44:27 INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[15:44:27 INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[15:44:27 INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[15:44:27 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:44:27 INFO]: [AuraSkills] Loaded 7 menus
+[15:44:27 INFO]: Done (16.511s)! For help, type "help"
+[15:44:27 INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [TPort, DeathChest]
+[15:44:28 INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[15:44:28 INFO]: TonyYuhh joined the game
+[15:44:28 INFO]: TonyYuhh[/100.37.219.212:54934] logged in with entity id 2 at ([world]-123.38330264060237, -34.0, 544.8767144974797)
+[15:44:28 INFO]: DubstepCow_ joined the game
+[15:44:28 INFO]: DubstepCow_[/96.239.102.77:33574] logged in with entity id 1 at ([world]38.243530245900686, 81.0, -46.48953349503426)
+[15:44:28 INFO]: Dullpnk127 joined the game
+[15:44:28 INFO]: Dullpnk127[/163.5.171.16:17636] logged in with entity id 22 at ([world]63.25752238194466, 64.0, 545.4335954879007)
+[15:44:30 INFO]: [LiveKit] Connect via 108.46.204.45:4123 [31m[PROXIED CONNECTION][0m
+[15:44:30 INFO]: [LiveKit] If you want to connect with a hostname instead of your IP, setup the proxy->hostname in the config.yml!
+[15:44:30 WARN]: [LiveKit] NOTE: You need to setup port forwarding for LiveKit port 4123 to enable direct connections! Direct connections offer better performance and stability! Proxy connections are only a fallback if port forwarding is not possible! Only 3 proxy connections are allowed!
+[15:44:36 INFO]: Dullpnk127 issued server command: /plugins
+[15:44:39 INFO]: DubstepCow_ issued server command: /plugins
+[15:52:21 INFO]: DubstepCow_ was slain by Lvl 9 | Enderman
+[15:53:37 INFO]: TonyYuhh has made the advancement [Best Friends Forever]
+[15:56:32 INFO]: DubstepCow_ was shot by Lvl 5 | Skeleton
+[15:56:38 INFO]: DubstepCow_ lost connection: Disconnected
+[15:56:38 INFO]: DubstepCow_ left the game
+[15:59:09 INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[15:59:09 INFO]: DubstepCow_ joined the game
+[15:59:09 INFO]: DubstepCow_[/96.239.102.77:36536] logged in with entity id 6944 at ([world]17.5, 76.0, -39.5)
+[16:04:56 INFO]: DubstepCow_ lost connection: Timed out
+[16:04:56 INFO]: DubstepCow_ left the game
+[16:06:45 INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[16:06:46 INFO]: DubstepCow_ joined the game
+[16:06:46 INFO]: DubstepCow_[/23.234.101.189:40942] logged in with entity id 8950 at ([world]116.28945368088131, 120.0, 448.72825231581965)
+[16:06:55 INFO]: TonyYuhh issued server command: /plugins
+[16:06:59 INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:07:21 INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:07:44 INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:08:24 INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:08:48 INFO]: DubstepCow_ lost connection: Disconnected
+[16:08:48 INFO]: DubstepCow_ left the game
+[16:09:11 INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:09:21 INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:09:25 INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:09:33 INFO]: TonyYuhh issued server command: /crazyenchantments
+[16:10:34 INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[16:10:34 INFO]: DubstepCow_ joined the game
+[16:10:34 INFO]: DubstepCow_[/23.234.101.189:53382] logged in with entity id 9426 at ([world]114.69999998807907, 117.0, 465.92261378805307)
+[16:12:43 INFO]: DubstepCow_ has made the advancement [Sweet Dreams]
+[16:12:55 INFO]: DubstepCow_ lost connection: Disconnected
+[16:12:55 INFO]: DubstepCow_ left the game
+[16:15:11 INFO]: TonyYuhh issued server command: /ce
