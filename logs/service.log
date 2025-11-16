@@ -46,3 +46,642 @@ Starting net.minecraft.server.Main
 [20:59:30] [User Authenticator #1/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
 [20:59:31] [Server thread/INFO]: DubstepCow_[/96.239.102.77:43582] logged in with entity id 94 at (17.550931548498383, 76.0, -42.41831303287078)
 [20:59:31] [Server thread/INFO]: DubstepCow_ joined the game
+[21:08:40] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[21:08:40] [Server thread/INFO]: DubstepCow_ left the game
+[21:09:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:14:01] [User Authenticator #2/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[21:14:02] [Server thread/INFO]: DubstepCow_[/96.239.102.77:58530] logged in with entity id 1578 at (43.83023301292299, 68.0, -47.56044209130395)
+[21:14:02] [Server thread/INFO]: DubstepCow_ joined the game
+[21:14:44] [Server thread/INFO]: DubstepCow_ has made the advancement [Monster Hunter]
+[21:14:58] [Server thread/INFO]: DubstepCow_ was slain by Zombie
+[21:24:11] [Server thread/INFO]: DubstepCow_ was blown up by Creeper
+[21:25:20] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[21:25:20] [Server thread/INFO]: DubstepCow_ left the game
+[21:25:43] [User Authenticator #3/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[21:25:43] [Server thread/INFO]: DubstepCow_[/96.239.102.77:33054] logged in with entity id 4033 at (20.45768385547472, 77.0, -39.703800073200895)
+[21:25:43] [Server thread/INFO]: DubstepCow_ joined the game
+[21:28:56] [Server thread/INFO]: /176.65.134.6:65501 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ako) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[21:28:57] [Server thread/INFO]: /176.65.134.12:62665 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ako) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[21:33:02] [Server thread/INFO]: DubstepCow_ was blown up by Creeper
+[21:36:11] [Server thread/INFO]: /176.65.134.6:65501 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ako) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[21:36:11] [Server thread/INFO]: /176.65.134.12:62665 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ako) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[21:36:38] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[21:36:38] [Server thread/INFO]: DubstepCow_ left the game
+[21:37:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:43:45] [Server thread/INFO]: KittyScan (/176.65.148.230:57474) lost connection: Disconnected
+[22:56:23] [User Authenticator #4/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[22:56:24] [Server thread/INFO]: DubstepCow_[/96.239.102.77:56084] logged in with entity id 6430 at (50.8544756167522, 74.0, -38.10470263472208)
+[22:56:24] [Server thread/INFO]: DubstepCow_ joined the game
+[22:57:54] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[22:57:54] [Server thread/INFO]: DubstepCow_ left the game
+[22:58:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:14:10] [User Authenticator #5/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[23:14:10] [Server thread/INFO]: Dullpnk127[/151.243.141.62:42644] logged in with entity id 7016 at (11.5, 68.0, -43.5)
+[23:14:10] [Server thread/INFO]: Dullpnk127 joined the game
+[23:17:04] [Server thread/INFO]: Dullpnk127 has made the advancement [Monster Hunter]
+[23:20:53] [Server thread/INFO]: Dullpnk127 has made the advancement [Stone Age]
+[23:25:57] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[23:25:57] [Server thread/INFO]: Dullpnk127 left the game
+[23:26:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:05:39] [Netty Epoll Server IO #9/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:20:19] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:00:33] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[10:21:54] [Netty Epoll Server IO #4/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[12:34:15] [Netty Epoll Server IO #15/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[12:48:32] [User Authenticator #6/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:48:33] [Server thread/INFO]: Dullpnk127[/146.70.161.167:33987] logged in with entity id 9787 at (134.66854757836873, 63.0, -74.59913773397993)
+[12:48:33] [Server thread/INFO]: Dullpnk127 joined the game
+[12:50:03] [Server thread/INFO]: Dullpnk127 has made the advancement [Getting an Upgrade]
+[12:59:08] [Server thread/INFO]: Dullpnk127 has made the advancement [Acquire Hardware]
+[12:59:46] [Server thread/INFO]: Dullpnk127 has made the advancement [Not Today, Thank You]
+[13:03:50] [Server thread/INFO]: Dullpnk127 has made the advancement [Isn't It Iron Pick]
+[13:16:52] [Server thread/INFO]: Dullpnk127 has made the advancement [Best Friends Forever]
+[13:21:12] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved wrongly! 0.6108275900754165
+[13:21:12] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved wrongly! 0.9300701110814202
+[13:21:12] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved wrongly! 1.3614106309491376
+[13:21:12] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved wrongly! 1.7288787552494682
+[13:21:12] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved wrongly! 2.2179371515961748
+[13:21:12] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved wrongly! 2.7349859793980045
+[13:28:36] [Server thread/INFO]: Dullpnk127 has made the advancement [Sweet Dreams]
+[13:31:03] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved too quickly! -4.847122177119388,0.0,-8.90487023525668
+[13:31:03] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved too quickly! -5.44864707189123,0.0,-10.088650077150191
+[13:31:03] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved too quickly! -6.044775826450291,0.0,-11.288200326167953
+[13:31:03] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved too quickly! 5.176099012869315,0.0,11.07127080036662
+[13:31:03] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved too quickly! 5.176099012869315,0.0,11.07127080036662
+[13:31:03] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved too quickly! 5.176099012869315,0.0,11.07127080036662
+[13:31:03] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved too quickly! 4.662567684871988,0.0,9.754280473847757
+[13:31:03] [Server thread/WARN]: Oak Boat (vehicle of Dullpnk127) moved too quickly! 4.666174422467634,0.0,9.728536074964495
+[14:00:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=51, y=66, z=516} ja{x=51, y=65, z=517}
+[14:04:45] [Server thread/INFO]: Dullpnk127 has made the advancement [Suit Up]
+[14:20:37] [Server thread/INFO]: Dullpnk127 has made the advancement [Diamonds!]
+[14:27:28] [Server thread/INFO]: Dullpnk127 was slain by Zombie
+[14:29:23] [Server thread/INFO]: Dullpnk127 fell from a high place
+[14:47:16] [Server thread/INFO]: Dullpnk127 has made the advancement [Cover Me with Diamonds]
+[14:52:18] [Server thread/INFO]: Dullpnk127 has made the advancement [A Seedy Place]
+[15:06:49] [Server thread/INFO]: Dullpnk127 has made the advancement [The Parrots and the Bats]
+[15:20:54] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=51, y=65, z=528} ja{x=51, y=64, z=529}
+[15:21:07] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=50, y=65, z=534} ja{x=49, y=64, z=533}
+[15:21:29] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=55, y=65, z=524} ja{x=56, y=64, z=524}
+[15:23:18] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=50, y=65, z=514} ja{x=51, y=64, z=514}
+[15:24:09] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=62, y=65, z=510} ja{x=61, y=64, z=510}
+[15:24:36] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=75, y=65, z=514} ja{x=75, y=64, z=515}
+[16:01:39] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[16:01:39] [Server thread/INFO]: Dullpnk127 left the game
+[16:02:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:06:50] [User Authenticator #7/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[00:06:51] [Server thread/INFO]: Dullpnk127[/149.102.244.19:48304] logged in with entity id 54800 at (70.39520735284829, 64.0, 532.5124999880791)
+[00:06:51] [Server thread/INFO]: Dullpnk127 joined the game
+[00:09:17] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=75, y=65, z=507} ja{x=76, y=64, z=507}
+[00:09:27] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=78, y=65, z=519} ja{x=79, y=64, z=519}
+[00:24:14] [User Authenticator #8/INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[00:24:14] [Server thread/INFO]: TonyYuhh[/100.37.219.212:51078] logged in with entity id 57979 at (20.5, 81.0, -52.5)
+[00:24:14] [Server thread/INFO]: TonyYuhh joined the game
+[00:24:38] [Server thread/INFO]: <Dullpnk127> 89 532
+[00:29:17] [Server thread/INFO]: TonyYuhh has made the advancement [Stone Age]
+[00:30:07] [Server thread/INFO]: TonyYuhh has made the advancement [Sweet Dreams]
+[00:30:13] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[00:30:13] [Server thread/INFO]: Dullpnk127 left the game
+[00:30:20] [User Authenticator #9/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[00:30:21] [Server thread/INFO]: Dullpnk127[/149.102.244.19:2249] logged in with entity id 60270 at (54.10097577386549, 64.0, 514.3771769700313)
+[00:30:21] [Server thread/INFO]: Dullpnk127 joined the game
+[00:30:43] [Server thread/INFO]: TonyYuhh has made the advancement [Getting an Upgrade]
+[00:40:56] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[00:40:56] [Server thread/INFO]: Dullpnk127 left the game
+[00:41:13] [User Authenticator #10/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[00:41:14] [Server thread/INFO]: Dullpnk127[/149.102.244.19:20113] logged in with entity id 69604 at (1233.3794610624548, 120.0, 466.8971983829348)
+[00:41:14] [Server thread/INFO]: Dullpnk127 joined the game
+[00:47:08] [Server thread/INFO]: Dullpnk127 has made the advancement [Ice Bucket Challenge]
+[00:51:30] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[00:51:30] [Server thread/INFO]: Dullpnk127 left the game
+[00:51:51] [Server thread/INFO]: TonyYuhh has made the advancement [Monster Hunter]
+[00:51:52] [User Authenticator #11/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[00:51:53] [Server thread/INFO]: Dullpnk127[/149.102.244.19:26243] logged in with entity id 78435 at (1394.899687341249, 70.0, 986.0975459129451)
+[00:51:53] [Server thread/INFO]: Dullpnk127 joined the game
+[00:53:11] [Server thread/INFO]: TonyYuhh has made the advancement [Acquire Hardware]
+[00:55:57] [Server thread/INFO]: TonyYuhh has made the advancement [Not Today, Thank You]
+[00:56:27] [User Authenticator #12/INFO]: Disconnecting Herobrine (/151.115.73.107:51702): Failed to verify username!
+[00:56:27] [User Authenticator #12/ERROR]: Username 'Herobrine' tried to join with an invalid session
+[00:56:27] [Server thread/INFO]: Herobrine (/151.115.73.107:51702) lost connection: Failed to verify username!
+[00:56:38] [User Authenticator #13/INFO]: UUID of player matscan is ff47729b-d0d2-4af0-98b1-1c0a7e1b0eef
+[00:56:39] [Server thread/INFO]: matscan[/151.115.73.107:44612] logged in with entity id 81050 at (15.5, 84.0, -53.5)
+[00:56:39] [Server thread/INFO]: matscan joined the game
+[00:56:39] [Server thread/INFO]: <matscan> Hello. I'm a friendly bot that scans the internet for Minecraft servers.
+[00:56:39] [Server thread/INFO]: <matscan> This server isn't whitelisted, which means griefers can and probably will join it. To avoid this you must whitelist the server with the commands '/whitelist on' and '/whitelist add <player>'.
+[00:56:40] [Server thread/INFO]: <matscan> If it was meant to be public, please ensure that the server is taking frequent backups to prevent permanent damage in the event that it is targeted.
+[00:56:40] [Server thread/INFO]: <matscan> - mat | FAQ: https://matdoes.dev/matscan
+[00:56:42] [Server thread/INFO]: matscan lost connection: Disconnected
+[00:56:42] [Server thread/INFO]: matscan left the game
+[00:58:01] [Server thread/INFO]: TonyYuhh has made the advancement [Isn't It Iron Pick]
+[01:06:02] [User Authenticator #14/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[01:06:02] [Server thread/INFO]: Dullpnk127 lost connection: You logged in from another location
+[01:06:02] [Server thread/INFO]: Dullpnk127 left the game
+[01:06:02] [Server thread/WARN]: handleDisconnection() called twice
+[01:06:02] [Server thread/INFO]: Dullpnk127[/100.12.111.186:64783] logged in with entity id 89207 at (77.24636989961316, 64.46642329615972, 519.6141955482128)
+[01:06:02] [Server thread/INFO]: Dullpnk127 joined the game
+[01:06:19] [Server thread/INFO]: TonyYuhh lost connection: Disconnected
+[01:06:19] [Server thread/INFO]: TonyYuhh left the game
+[01:06:29] [User Authenticator #15/INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[01:06:29] [Server thread/INFO]: TonyYuhh[/100.37.219.212:53737] logged in with entity id 89418 at (113.02676654374893, 121.76636799395752, 668.5667663956068)
+[01:06:29] [Server thread/INFO]: TonyYuhh joined the game
+[01:07:43] [Server thread/INFO]: Dullpnk127 has made the advancement [We Need to Go Deeper]
+[01:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2664ms or 53 ticks behind
+[01:08:19] [Server thread/INFO]: TonyYuhh lost connection: Disconnected
+[01:08:19] [Server thread/INFO]: TonyYuhh left the game
+[01:09:26] [Server thread/INFO]: Dullpnk127 has made the advancement [A Terrible Fortress]
+[01:10:38] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[01:10:38] [Server thread/INFO]: Dullpnk127 left the game
+[01:10:45] [User Authenticator #16/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[01:10:45] [Server thread/INFO]: Dullpnk127[/100.12.111.186:60814] logged in with entity id 90510 at (101.92056448578171, 63.0, -95.69999998807907)
+[01:10:45] [Server thread/INFO]: Dullpnk127 joined the game
+[01:10:46] [Server thread/INFO]: Dullpnk127 burned to death
+[01:12:37] [Server thread/INFO]: Dullpnk127 tried to swim in lava
+[01:14:42] [Server thread/INFO]: Dullpnk127 burned to death
+[01:16:59] [Server thread/INFO]: Dullpnk127 tried to swim in lava
+[01:19:01] [Server thread/INFO]: Dullpnk127 burned to death
+[01:21:02] [Server thread/INFO]: Dullpnk127 tried to swim in lava
+[01:23:39] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[01:23:39] [Server thread/INFO]: Dullpnk127 left the game
+[01:24:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:32:54] [User Authenticator #17/INFO]: UUID of player Daddyzoglou is 2813b304-6650-4e50-acd9-26a384f8702d
+[01:32:55] [Server thread/INFO]: Daddyzoglou[/74.108.135.97:54670] logged in with entity id 94944 at (13.5, 73.0, -41.5)
+[01:32:55] [Server thread/INFO]: Daddyzoglou joined the game
+[01:35:29] [Server thread/INFO]: Daddyzoglou has made the advancement [Stone Age]
+[01:36:00] [Server thread/INFO]: Daddyzoglou has made the advancement [Getting an Upgrade]
+[01:40:09] [Server thread/INFO]: Daddyzoglou has made the advancement [Best Friends Forever]
+[01:45:24] [Server thread/INFO]: Daddyzoglou has made the advancement [Sweet Dreams]
+[01:46:32] [Server thread/INFO]: Daddyzoglou has made the advancement [Ice Bucket Challenge]
+[01:50:32] [Server thread/INFO]: Daddyzoglou lost connection: Disconnected
+[01:50:32] [Server thread/INFO]: Daddyzoglou left the game
+[01:50:42] [User Authenticator #18/INFO]: UUID of player Daddyzoglou is 2813b304-6650-4e50-acd9-26a384f8702d
+[01:50:42] [Server thread/INFO]: Daddyzoglou[/74.108.135.97:56323] logged in with entity id 99987 at (-281.69999998807907, -1.0, 176.30000001192093)
+[01:50:42] [Server thread/INFO]: Daddyzoglou joined the game
+[01:50:46] [User Authenticator #19/INFO]: UUID of player IGTM7 is fdfeeee7-b01c-40f1-a410-1d1afbfda414
+[01:50:46] [Server thread/INFO]: IGTM7[/24.90.42.205:61362] logged in with entity id 100271 at (24.5, 81.0, -46.5)
+[01:50:46] [Server thread/INFO]: IGTM7 joined the game
+[01:52:19] [Server thread/INFO]: Daddyzoglou has made the advancement [Acquire Hardware]
+[01:52:22] [Server thread/INFO]: Daddyzoglou has made the advancement [Isn't It Iron Pick]
+[01:52:54] [Server thread/INFO]: Daddyzoglou has made the advancement [Diamonds!]
+[01:53:08] [Server thread/INFO]: IGTM7 has made the advancement [Stone Age]
+[01:53:28] [Server thread/INFO]: IGTM7 has made the advancement [Getting an Upgrade]
+[01:54:48] [Server thread/INFO]: Daddyzoglou has made the advancement [Monster Hunter]
+[01:56:39] [Server thread/INFO]: Daddyzoglou has made the advancement [Cover Me with Diamonds]
+[01:59:18] [Server thread/INFO]: IGTM7 has made the advancement [Acquire Hardware]
+[01:59:22] [Server thread/INFO]: IGTM7 has made the advancement [Isn't It Iron Pick]
+[02:01:03] [Server thread/INFO]: IGTM7 has made the advancement [Suit Up]
+[02:03:08] [Server thread/INFO]: IGTM7 has made the advancement [Diamonds!]
+[02:07:29] [Server thread/INFO]: IGTM7 has made the advancement [Cover Me with Diamonds]
+[02:07:58] [Server thread/INFO]: Daddyzoglou has made the advancement [Who is Cutting Onions?]
+[02:08:30] [Server thread/INFO]: IGTM7 has made the advancement [Monster Hunter]
+[02:10:28] [Server thread/INFO]: Daddyzoglou has made the advancement [Hot Stuff]
+[02:14:47] [Server thread/INFO]: Daddyzoglou has made the advancement [We Need to Go Deeper]
+[02:15:06] [Server thread/INFO]: Daddyzoglou has made the advancement [Hidden in the Depths]
+[02:17:27] [Server thread/INFO]: IGTM7 has made the advancement [We Need to Go Deeper]
+[02:17:38] [Server thread/INFO]: IGTM7 lost connection: Disconnected
+[02:17:38] [Server thread/INFO]: IGTM7 left the game
+[02:17:57] [User Authenticator #20/INFO]: UUID of player IGTM7 is fdfeeee7-b01c-40f1-a410-1d1afbfda414
+[02:17:58] [Server thread/INFO]: IGTM7[/24.90.42.205:61491] logged in with entity id 109246 at (-35.856629882228894, 50.0, 8.74925245604506)
+[02:17:58] [Server thread/INFO]: IGTM7 joined the game
+[02:18:00] [Server thread/INFO]: IGTM7 lost connection: Disconnected
+[02:18:00] [Server thread/INFO]: IGTM7 left the game
+[02:18:24] [User Authenticator #21/INFO]: UUID of player IGTM7 is fdfeeee7-b01c-40f1-a410-1d1afbfda414
+[02:18:25] [Server thread/INFO]: IGTM7[/24.90.42.205:61513] logged in with entity id 109317 at (-35.856629882228894, 50.0, 8.74925245604506)
+[02:18:25] [Server thread/INFO]: IGTM7 joined the game
+[02:20:58] [Server thread/INFO]: IGTM7 has made the advancement [Ice Bucket Challenge]
+[02:21:10] [Server thread/INFO]: IGTM7 has made the advancement [Who is Cutting Onions?]
+[02:23:47] [Server thread/INFO]: IGTM7 has completed the challenge [Return to Sender]
+[02:26:33] [Server thread/INFO]: Daddyzoglou has made the advancement [A Terrible Fortress]
+[02:26:53] [Server thread/INFO]: Daddyzoglou has made the advancement [Not Today, Thank You]
+[02:27:38] [Server thread/INFO]: Daddyzoglou has made the advancement [Into Fire]
+[02:44:19] [Server thread/INFO]: IGTM7 has made the advancement [Take Aim]
+[02:45:11] [Server thread/INFO]: IGTM7 has made the advancement [Sweet Dreams]
+[03:00:03] [Server thread/INFO]: Daddyzoglou has made the advancement [Eye Spy]
+[03:00:16] [Server thread/INFO]: IGTM7 has made the advancement [Eye Spy]
+[03:01:49] [Server thread/INFO]: IGTM7 has made the advancement [Enchanter]
+[03:02:54] [Server thread/INFO]: Daddyzoglou has made the advancement [Enchanter]
+[03:05:58] [Server thread/INFO]: Daddyzoglou has made the advancement [The End?]
+[03:05:59] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[03:05:59] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[03:06:00] [Server thread/INFO]: IGTM7 has made the advancement [The End?]
+[03:06:50] [Netty Epoll Server IO #11/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:11:00] [Server thread/INFO]: IGTM7 was doomed to fall by Ender Dragon
+[03:12:27] [Server thread/INFO]: IGTM7 has made the advancement [Free the End]
+[03:13:02] [Server thread/INFO]: Daddyzoglou has reached the goal [The Next Generation]
+[03:13:30] [Server thread/INFO]: IGTM7 has made the advancement [Ol' Betsy]
+[03:15:20] [Server thread/INFO]: Daddyzoglou lost connection: Disconnected
+[03:15:20] [Server thread/INFO]: Daddyzoglou left the game
+[03:15:21] [User Authenticator #22/INFO]: UUID of player Daddyzoglou is 2813b304-6650-4e50-acd9-26a384f8702d
+[03:15:21] [Server thread/INFO]: Daddyzoglou[/74.108.135.97:57135] logged in with entity id 123528 at (-642.4110931859349, -6.0, 1839.237500011921)
+[03:15:21] [Server thread/INFO]: Daddyzoglou joined the game
+[03:17:36] [Server thread/INFO]: <IGTM7> another mod pack completed in my book, brian
+[03:17:38] [Server thread/INFO]: IGTM7 lost connection: Disconnected
+[03:17:38] [Server thread/INFO]: IGTM7 left the game
+[03:19:37] [Server thread/INFO]: Daddyzoglou has made the advancement [Remote Getaway]
+[03:22:52] [Server thread/INFO]: Daddyzoglou has made the advancement [The City at the End of the Game]
+[03:27:09] [Server thread/INFO]: Daddyzoglou has reached the goal [Sky's the Limit]
+[03:31:11] [Server thread/INFO]: Daddyzoglou lost connection: Disconnected
+[03:31:11] [Server thread/INFO]: Daddyzoglou left the game
+[03:32:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:42:57] [Netty Epoll Server IO #12/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[05:30:30] [Netty Epoll Server IO #11/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[12:08:23] [User Authenticator #23/INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[12:08:23] [Server thread/INFO]: TonyYuhh[/100.37.219.212:51369] logged in with entity id 125974 at (67.89728668574462, 65.0, 529.6999999880791)
+[12:08:23] [Server thread/INFO]: TonyYuhh joined the game
+[12:10:31] [Server thread/INFO]: TonyYuhh has made the advancement [Local Brewery]
+[12:12:24] [User Authenticator #24/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:12:25] [Server thread/INFO]: Dullpnk127[/163.5.171.16:43495] logged in with entity id 126608 at (72.67013453339763, 67.0, -90.81256261300369)
+[12:12:25] [Server thread/INFO]: Dullpnk127 joined the game
+[12:12:26] [Server thread/INFO]: TonyYuhh has made the advancement [Suit Up]
+[12:12:43] [Server thread/INFO]: Dullpnk127 tried to swim in lava
+[12:15:08] [Server thread/INFO]: TonyYuhh lost connection: Disconnected
+[12:15:08] [Server thread/INFO]: TonyYuhh left the game
+[12:15:21] [User Authenticator #25/INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[12:15:22] [Server thread/INFO]: TonyYuhh[/100.37.219.212:61061] logged in with entity id 127302 at (64.34152977634044, 49.0, 544.5430830232641)
+[12:15:22] [Server thread/INFO]: TonyYuhh joined the game
+[12:15:26] [Server thread/INFO]: TonyYuhh has reached the goal [Zombie Doctor]
+[12:24:55] [Server thread/INFO]: Dullpnk127 has made the advancement [Voluntary Exile]
+[12:25:20] [Server thread/INFO]: TonyYuhh has made the advancement [Diamonds!]
+[12:28:23] [Server thread/INFO]: TonyYuhh lost connection: Disconnected
+[12:28:23] [Server thread/INFO]: TonyYuhh left the game
+[12:28:35] [User Authenticator #26/INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[12:28:35] [Server thread/INFO]: TonyYuhh[/100.37.219.212:55182] logged in with entity id 132050 at (-81.23347967722701, 1.0, 618.9162367681286)
+[12:28:35] [Server thread/INFO]: TonyYuhh joined the game
+[12:46:23] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[12:46:23] [Server thread/INFO]: Dullpnk127 left the game
+Starting net.minecraft.server.Main
+[12:46:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[12:46:37] [ServerMain/INFO]: Loaded 1461 recipes
+[12:46:37] [ServerMain/INFO]: Loaded 1574 advancements
+[12:46:37] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[12:46:37] [Server thread/INFO]: Loading properties
+[12:46:37] [Server thread/INFO]: Default game type: SURVIVAL
+[12:46:37] [Server thread/INFO]: Generating keypair
+[12:46:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:46:37] [Server thread/INFO]: Using epoll channel type
+[12:46:37] [Server thread/INFO]: Preparing level "world"
+[12:46:38] [Server thread/INFO]: Loading 0 persistent chunks...
+[12:46:38] [Server thread/INFO]: Preparing spawn area: 100%
+[12:46:38] [Server thread/INFO]: Time elapsed: 12 ms
+[12:46:38] [Server thread/INFO]: Done (0.211s)! For help, type "help"
+[12:46:57] [User Authenticator #1/INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[12:46:58] [Server thread/INFO]: TonyYuhh[/100.37.219.212:61939] logged in with entity id 64 at (-270.6028027866671, 63.0, 903.4699820011483)
+[12:46:58] [Server thread/INFO]: TonyYuhh joined the game
+[12:47:22] [User Authenticator #2/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:47:22] [Server thread/INFO]: Dullpnk127[/163.5.171.16:31328] logged in with entity id 616 at (43.61828002592522, 92.0, 746.6999999880791)
+[12:47:22] [Server thread/INFO]: Dullpnk127 joined the game
+[12:47:53] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[12:47:53] [Server thread/INFO]: Dullpnk127 left the game
+[12:49:58] [User Authenticator #3/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:49:58] [Server thread/INFO]: Dullpnk127[/163.5.171.16:8473] logged in with entity id 1999 at (42.98674007241264, 92.0, 745.6289525934772)
+[12:49:58] [Server thread/INFO]: Dullpnk127 joined the game
+[12:50:26] [Server thread/INFO]: TonyYuhh has made the advancement [Cover Me with Diamonds]
+[12:54:39] [Server thread/INFO]: TonyYuhh has made the advancement [A Seedy Place]
+[12:55:57] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[12:55:57] [Server thread/INFO]: Dullpnk127 left the game
+[12:58:04] [User Authenticator #4/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:58:04] [Server thread/INFO]: Dullpnk127[/163.5.171.16:1286] logged in with entity id 4578 at (10.203169832646672, 38.0, 783.781316973529)
+[12:58:04] [Server thread/INFO]: Dullpnk127 joined the game
+[12:58:22] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[12:58:22] [Server thread/INFO]: Dullpnk127 left the game
+[12:59:32] [User Authenticator #5/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:59:32] [Server thread/INFO]: Dullpnk127[/163.5.171.16:50662] logged in with entity id 5158 at (-0.369484563675521, 38.0, 788.3000000119209)
+[12:59:32] [Server thread/INFO]: Dullpnk127 joined the game
+[13:11:12] [Server thread/INFO]: TonyYuhh has made the advancement [The Parrots and the Bats]
+[13:11:35] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[13:11:35] [Server thread/INFO]: Dullpnk127 left the game
+[13:11:37] [User Authenticator #6/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[13:11:38] [Server thread/INFO]: Dullpnk127[/163.5.171.16:60275] logged in with entity id 9961 at (151.80877541059226, -52.0, 1118.1022113256367)
+[13:11:38] [Server thread/INFO]: Dullpnk127 joined the game
+[13:12:01] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[13:12:01] [Server thread/INFO]: Dullpnk127 left the game
+[13:18:35] [User Authenticator #7/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[13:18:35] [Server thread/INFO]: Dullpnk127[/163.5.171.16:7722] logged in with entity id 12318 at (187.0394317322087, -49.0, 1044.730356551565)
+[13:18:35] [Server thread/INFO]: Dullpnk127 joined the game
+[13:19:13] [Server thread/INFO]: MCScans (/45.148.10.134:38146) lost connection: Disconnected
+[13:21:30] [Server thread/INFO]: Dullpnk127 was blown up by Creeper
+[13:52:43] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[13:52:43] [Server thread/INFO]: Dullpnk127 left the game
+[13:58:17] [User Authenticator #8/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[13:58:17] [Server thread/INFO]: Dullpnk127[/163.5.171.16:47633] logged in with entity id 24566 at (68.98954982367579, 64.0, 534.0538104679086)
+[13:58:17] [Server thread/INFO]: Dullpnk127 joined the game
+[14:00:13] [Server thread/INFO]: TonyYuhh has made the advancement [We Need to Go Deeper]
+[14:02:43] [Server thread/INFO]: TonyYuhh has made the advancement [Stay Hydrated!]
+[14:04:07] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[14:04:07] [Server thread/INFO]: Dullpnk127 left the game
+[14:04:20] [User Authenticator #9/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[14:04:21] [Server thread/INFO]: Dullpnk127[/163.5.171.16:17324] logged in with entity id 27614 at (104.5772160235507, 69.0, 508.68795021681944)
+[14:04:21] [Server thread/INFO]: Dullpnk127 joined the game
+[14:13:22] [User Authenticator #10/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[14:13:22] [Server thread/INFO]: DubstepCow_[/96.239.102.77:50628] logged in with entity id 29879 at (16.799314205501943, 75.0, -23.667044747363416)
+[14:13:22] [Server thread/INFO]: DubstepCow_ joined the game
+[14:15:26] [Server thread/INFO]: DubstepCow_ has made the advancement [Ice Bucket Challenge]
+[14:18:09] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[14:18:09] [Server thread/INFO]: DubstepCow_ left the game
+[14:18:10] [User Authenticator #11/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[14:18:10] [Server thread/INFO]: DubstepCow_[/96.239.102.77:37988] logged in with entity id 32116 at (20.818078501283054, 77.0, -39.69967204608401)
+[14:18:10] [Server thread/INFO]: DubstepCow_ joined the game
+[14:18:14] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[14:18:14] [Server thread/INFO]: DubstepCow_ left the game

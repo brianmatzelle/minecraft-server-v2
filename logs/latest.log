@@ -1,17 +1,73 @@
-[20:59:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:59:26] [ServerMain/INFO]: Loaded 1461 recipes
-[20:59:26] [ServerMain/INFO]: Loaded 1574 advancements
-[20:59:26] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[20:59:26] [Server thread/INFO]: Loading properties
-[20:59:26] [Server thread/INFO]: Default game type: SURVIVAL
-[20:59:26] [Server thread/INFO]: Generating keypair
-[20:59:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:59:26] [Server thread/INFO]: Using epoll channel type
-[20:59:26] [Server thread/INFO]: Preparing level "world"
-[20:59:26] [Server thread/INFO]: Loading 0 persistent chunks...
-[20:59:26] [Server thread/INFO]: Preparing spawn area: 100%
-[20:59:26] [Server thread/INFO]: Time elapsed: 11 ms
-[20:59:26] [Server thread/INFO]: Done (0.216s)! For help, type "help"
-[20:59:30] [User Authenticator #1/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
-[20:59:31] [Server thread/INFO]: DubstepCow_[/96.239.102.77:43582] logged in with entity id 94 at (17.550931548498383, 76.0, -42.41831303287078)
-[20:59:31] [Server thread/INFO]: DubstepCow_ joined the game
+[12:46:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[12:46:37] [ServerMain/INFO]: Loaded 1461 recipes
+[12:46:37] [ServerMain/INFO]: Loaded 1574 advancements
+[12:46:37] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[12:46:37] [Server thread/INFO]: Loading properties
+[12:46:37] [Server thread/INFO]: Default game type: SURVIVAL
+[12:46:37] [Server thread/INFO]: Generating keypair
+[12:46:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:46:37] [Server thread/INFO]: Using epoll channel type
+[12:46:37] [Server thread/INFO]: Preparing level "world"
+[12:46:38] [Server thread/INFO]: Loading 0 persistent chunks...
+[12:46:38] [Server thread/INFO]: Preparing spawn area: 100%
+[12:46:38] [Server thread/INFO]: Time elapsed: 12 ms
+[12:46:38] [Server thread/INFO]: Done (0.211s)! For help, type "help"
+[12:46:57] [User Authenticator #1/INFO]: UUID of player TonyYuhh is fb3b0260-df5e-48e7-92e8-f396068350b8
+[12:46:58] [Server thread/INFO]: TonyYuhh[/100.37.219.212:61939] logged in with entity id 64 at (-270.6028027866671, 63.0, 903.4699820011483)
+[12:46:58] [Server thread/INFO]: TonyYuhh joined the game
+[12:47:22] [User Authenticator #2/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:47:22] [Server thread/INFO]: Dullpnk127[/163.5.171.16:31328] logged in with entity id 616 at (43.61828002592522, 92.0, 746.6999999880791)
+[12:47:22] [Server thread/INFO]: Dullpnk127 joined the game
+[12:47:53] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[12:47:53] [Server thread/INFO]: Dullpnk127 left the game
+[12:49:58] [User Authenticator #3/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:49:58] [Server thread/INFO]: Dullpnk127[/163.5.171.16:8473] logged in with entity id 1999 at (42.98674007241264, 92.0, 745.6289525934772)
+[12:49:58] [Server thread/INFO]: Dullpnk127 joined the game
+[12:50:26] [Server thread/INFO]: TonyYuhh has made the advancement [Cover Me with Diamonds]
+[12:54:39] [Server thread/INFO]: TonyYuhh has made the advancement [A Seedy Place]
+[12:55:57] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[12:55:57] [Server thread/INFO]: Dullpnk127 left the game
+[12:58:04] [User Authenticator #4/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:58:04] [Server thread/INFO]: Dullpnk127[/163.5.171.16:1286] logged in with entity id 4578 at (10.203169832646672, 38.0, 783.781316973529)
+[12:58:04] [Server thread/INFO]: Dullpnk127 joined the game
+[12:58:22] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[12:58:22] [Server thread/INFO]: Dullpnk127 left the game
+[12:59:32] [User Authenticator #5/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[12:59:32] [Server thread/INFO]: Dullpnk127[/163.5.171.16:50662] logged in with entity id 5158 at (-0.369484563675521, 38.0, 788.3000000119209)
+[12:59:32] [Server thread/INFO]: Dullpnk127 joined the game
+[13:11:12] [Server thread/INFO]: TonyYuhh has made the advancement [The Parrots and the Bats]
+[13:11:35] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[13:11:35] [Server thread/INFO]: Dullpnk127 left the game
+[13:11:37] [User Authenticator #6/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[13:11:38] [Server thread/INFO]: Dullpnk127[/163.5.171.16:60275] logged in with entity id 9961 at (151.80877541059226, -52.0, 1118.1022113256367)
+[13:11:38] [Server thread/INFO]: Dullpnk127 joined the game
+[13:12:01] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[13:12:01] [Server thread/INFO]: Dullpnk127 left the game
+[13:18:35] [User Authenticator #7/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[13:18:35] [Server thread/INFO]: Dullpnk127[/163.5.171.16:7722] logged in with entity id 12318 at (187.0394317322087, -49.0, 1044.730356551565)
+[13:18:35] [Server thread/INFO]: Dullpnk127 joined the game
+[13:19:13] [Server thread/INFO]: MCScans (/45.148.10.134:38146) lost connection: Disconnected
+[13:21:30] [Server thread/INFO]: Dullpnk127 was blown up by Creeper
+[13:52:43] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[13:52:43] [Server thread/INFO]: Dullpnk127 left the game
+[13:58:17] [User Authenticator #8/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[13:58:17] [Server thread/INFO]: Dullpnk127[/163.5.171.16:47633] logged in with entity id 24566 at (68.98954982367579, 64.0, 534.0538104679086)
+[13:58:17] [Server thread/INFO]: Dullpnk127 joined the game
+[14:00:13] [Server thread/INFO]: TonyYuhh has made the advancement [We Need to Go Deeper]
+[14:02:43] [Server thread/INFO]: TonyYuhh has made the advancement [Stay Hydrated!]
+[14:04:07] [Server thread/INFO]: Dullpnk127 lost connection: Disconnected
+[14:04:07] [Server thread/INFO]: Dullpnk127 left the game
+[14:04:20] [User Authenticator #9/INFO]: UUID of player Dullpnk127 is e9ffc131-1ba6-4f36-bbc1-f54b3dd33088
+[14:04:21] [Server thread/INFO]: Dullpnk127[/163.5.171.16:17324] logged in with entity id 27614 at (104.5772160235507, 69.0, 508.68795021681944)
+[14:04:21] [Server thread/INFO]: Dullpnk127 joined the game
+[14:13:22] [User Authenticator #10/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[14:13:22] [Server thread/INFO]: DubstepCow_[/96.239.102.77:50628] logged in with entity id 29879 at (16.799314205501943, 75.0, -23.667044747363416)
+[14:13:22] [Server thread/INFO]: DubstepCow_ joined the game
+[14:15:26] [Server thread/INFO]: DubstepCow_ has made the advancement [Ice Bucket Challenge]
+[14:18:09] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[14:18:09] [Server thread/INFO]: DubstepCow_ left the game
+[14:18:10] [User Authenticator #11/INFO]: UUID of player DubstepCow_ is 4e624094-4164-4d13-9445-e66b011524e8
+[14:18:10] [Server thread/INFO]: DubstepCow_[/96.239.102.77:37988] logged in with entity id 32116 at (20.818078501283054, 77.0, -39.69967204608401)
+[14:18:10] [Server thread/INFO]: DubstepCow_ joined the game
+[14:18:14] [Server thread/INFO]: DubstepCow_ lost connection: Disconnected
+[14:18:14] [Server thread/INFO]: DubstepCow_ left the game
